@@ -42,15 +42,21 @@ icon = "fab fa-reddit-alien"
 
 [[social_icons]]
 id = "linkedin"
-url = "https://linkedin.com/in/%s"
+url = "https://www.linkedin.com/groups/%s"
 title = "LinkedIn"
 icon = "fab fa-linkedin"
 
 [[social_icons]]
 id = "xing"
-url = "https://www.xing.com/profile/%s"
+url = "https://www.xing.com/communities/groups/%s"
 title = "Xing"
 icon = "fab fa-xing"
+
+[[social_icons]]
+id = "discord"
+url = "https://discord.gg/%s"
+title = "Discord"
+icon = "fab fa-discord"
 
 [[social_icons]]
 id = "stackoverflow"

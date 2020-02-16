@@ -18,7 +18,7 @@ pygmentCodeFences = true
   subtitle = "Java-User-Group Ingolstadt e.V."
   logo = "img/jug-in.png"
   favicon = "img/favicon.ico"
-  dateFormat = "January 2, 2006"
+  dateFormat = "02.01.2006"
   commit = false
   rss = true
   comments = true
@@ -27,8 +27,8 @@ pygmentCodeFences = true
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
 #  desc = "Triangle"
-#[[Params.bigimg]]
-#  src = "img/sphere.jpg"
+[[Params.bigimg]]
+  src = "img/cloud.jpg"
 #  desc = "Sphere"
 #[[Params.bigimg]]
 #  src = "img/hexagon.jpg"
@@ -39,8 +39,9 @@ pygmentCodeFences = true
   email = "info@jug-in.bayern"
   gitlab = "jug-in"
   github = "jug-in"
-  linkedin = "username"
-  xing = "username"
+  linkedin = "8766833"
+  xing = "java-user-group-ingolstadt-ev-c8ae-1109997"
+  discord = "GMBW4Gy"
 
 [[menu.main]]
     name = "Verein"
@@ -64,18 +65,6 @@ pygmentCodeFences = true
 
 [[menu.main]]
     parent = "talks"
-    name = "Big Image Sample"
-    url = "post/2017-03-07-bigimg-sample"
+    name = "Apache Beam"
+    url = "post/2020-02-apache-beam"
     weight = 1
-
-[[menu.main]]
-    parent = "talks"
-    name = "Math Sample"
-    url = "post/2017-03-05-math-sample"
-    weight = 2
-
-[[menu.main]]
-    parent = "talks"
-    name = "Code talks"
-    url = "post/2016-03-08-code-sample"
-    weight = 3
