@@ -1,0 +1,81 @@
+baseurl = "https://jug-in.gitlab.io/jug-in.bayern"
+contentdir    = "content"
+layoutdir     = "layouts"
+publishdir    = "public"
+title = "JUG Ingolstadt"
+fulltitle = "Java-User-Group Ingolstadt e.V."
+canonifyurls  = true
+
+DefaultContentLanguage = "de"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsUseClasses = true
+pygmentCodeFences = true
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+  subtitle = "Java-User-Group Ingolstadt e.V."
+  logo = "img/jug-in.png"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "jug in - Java-User-Group Ingolstadt e.V."
+  email = "info@jug-in.bayern"
+  gitlab = "jug-in"
+  github = "jug-in"
+  linkedin = "username"
+  xing = "username"
+
+[[menu.main]]
+    name = "Verein"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "Java-Treff"
+    url = "page/java-treff/"
+    weight = 2
+
+[[menu.main]]
+    name = "Impressum"
+    url = "page/impressum/"
+    weight = 4
+
+[[menu.main]]
+    name = "Talks"
+    identifier = "talks"
+    weight = 3
+
+[[menu.main]]
+    parent = "talks"
+    name = "Big Image Sample"
+    url = "post/2017-03-07-bigimg-sample"
+    weight = 1
+
+[[menu.main]]
+    parent = "talks"
+    name = "Math Sample"
+    url = "post/2017-03-05-math-sample"
+    weight = 2
+
+[[menu.main]]
+    parent = "talks"
+    name = "Code talks"
+    url = "post/2016-03-08-code-sample"
+    weight = 3
