@@ -122,10 +122,10 @@ icon = "fab fa-keybase"
 id = "Goodreads"
 url = "https://www.goodreads.com/%s"
 title = "Goodreads"
-icon = "fab fa-calendar"
+icon = "fab fa-goodreads"
 
 [[social_icons]]
 id = "ical"
 url = "%s"
 title = "ical Kalender"
-icon = "fab fa-goodreads"
+icon = "fab fa-calendar"
