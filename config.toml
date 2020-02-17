@@ -42,6 +42,7 @@ pygmentCodeFences = true
   linkedin = "8766833"
   xing = "java-user-group-ingolstadt-ev-c8ae-1109997"
   discord = "GMBW4Gy"
+  ical = "https://www.vereinonline.org/jug_ingolstadt/?ical"
 
 [[menu.main]]
     name = "Verein"
