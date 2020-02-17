@@ -1,4 +1,4 @@
-baseurl = "https://jug-in.gitlab.io/jug-in.bayern"
+baseurl = "https://preview.jug-in.bayern"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
