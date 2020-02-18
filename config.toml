@@ -69,3 +69,58 @@ pygmentCodeFences = true
     name = "Apache Beam"
     url = "post/2020-02-apache-beam"
     weight = 1
+
+[[menu.main]]
+    parent = "talks"
+    name = "Open Source APM Tools"
+    url = "post/2019-08-open-source-apm-tools"
+    weight = 1
+
+[[menu.main]]
+    parent = "talks"
+    name = "Java module"
+    url = "post/2019-07-java-module"
+    weight = 1
+
+[[menu.main]]
+    parent = "talks"
+    name = "Kotlin is more than an island"
+    url = "post/2019-06-kotlin-more-than-an-island"
+    weight = 1
+
+[[menu.main]]
+    parent = "talks"
+    name = "Pattern Discussion"
+    url = "post/2019-06-pattern-discussion"
+    weight = 1
+
+[[menu.main]]
+    parent = "talks"
+    name = "Coding Dojo"
+    url = "post/2019-05-coding-dojo"
+    weight = 1
+
+[[menu.main]]
+    parent = "talks"
+    name = "Effective Java"
+    url = "post/2019-05-effective-java"
+    weight = 1
+
+[[menu.main]]
+    parent = "talks"
+    name = "How to quit Vim"
+    url = "post/2019-05-how-to-quit-vim"
+    weight = 1
+
+[[menu.main]]
+    parent = "talks"
+    name = "Java 12"
+    url = "post/2019-04-java-12"
+    weight = 1
+
+[[menu.main]]
+    parent = "talks"
+    name = "Jmh Benchmark"
+    url = "post/2019-04-jmh-benchmark"
+    weight = 1
+
