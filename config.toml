@@ -3,7 +3,6 @@ contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
 title = "JUG Ingolstadt"
-fulltitle = "Java-User-Group Ingolstadt e.V."
 canonifyurls  = true
 
 DefaultContentLanguage = "de"
@@ -15,6 +14,7 @@ pygmentCodeFences = true
 #googleAnalytics = "XXX"
 
 [Params]
+  navbarTitle = "Java-User-Group Ingolstadt e.V."
   subtitle = "Java-User-Group Ingolstadt e.V."
   logo = "img/jug-in.png"
   favicon = "img/favicon.ico"
