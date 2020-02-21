@@ -48,14 +48,19 @@ pygmentCodeFences = true
     weight = 2
 
 [[menu.main]]
+    name = "Publikationen"
+    url = "page/publications/"
+    weight = 3
+
+[[menu.main]]
     name = "Impressum"
     url = "page/impressum/"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     name = "Talks"
     identifier = "talks"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     parent = "talks"
