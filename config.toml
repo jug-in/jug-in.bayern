@@ -1,4 +1,4 @@
-baseurl = "https://jug-in.bayern"
+baseurl = "https://www.jug-in.bayern"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
