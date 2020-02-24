@@ -11,7 +11,7 @@ metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
 #disqusShortname = "XXX"
-googleAnalytics = "UA-158889963-1"
+#googleAnalytics = "UA-158889963-1"
 
 [Params]
   navbarTitle = "Java-User-Group Ingolstadt e.V."
