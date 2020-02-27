@@ -38,11 +38,6 @@ pygmentCodeFences = true
   ical = "https://www.vereinonline.org/jug_ingolstadt/?ical"
 
 [[menu.main]]
-    name = "Verein"
-    url = ""
-    weight = 1
-
-[[menu.main]]
     name = "Java-Treff"
     url = "page/java-treff/"
     weight = 2
@@ -56,6 +51,11 @@ pygmentCodeFences = true
     name = "Impressum"
     url = "page/impressum/"
     weight = 5
+
+[[menu.main]]
+    name = "Vereinsportal"
+    url = "https://www.vereinonline.org/jug_ingolstadt/"
+    weight = 6
 
 [[menu.main]]
     name = "Talks"
