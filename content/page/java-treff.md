@@ -4,14 +4,23 @@ subtitle: jeden 2. Dienstag im Monat
 comments: false
 ---
 
-Der Java-Treff ist unsere monatliche Veranstaltung mit Vorträgen, Austausch und Diskussion. Auch das leibliche Wohl kommt an unserem bewirtetem Veranstaltungsort - der [Sportgaststätte des SV Zuchering](https://goo.gl/maps/WdFPbCwjdqWQr5eUA) - nicht zu kurz.
+Der Java-Treff ist unsere monatliche Veranstaltung mit Vorträgen, Austausch und Diskussion. 
+~~Auch das leibliche Wohl kommt an unserem bewirtetem Veranstaltungsort - der [Sportgaststätte des SV Zuchering](https://goo.gl/maps/WdFPbCwjdqWQr5eUA) - nicht zu kurz.~~
+***Bis auf weiteres treffen wir uns ausschließlich virtuell.***
 
 ---
 
 #### Java-Treff im April
 ### 14.04.2020 - 18:30 Uhr
 
-Alexander Reelsen von https://www.elastic.co/ besucht uns und bringt die folgenden Vorträge mit:
+**Aufgrund der aktuellen Situation wird der Java-Treff im April virtuell durchgeführt**
+
+*Einwahldaten:*
+* Meeting-Link: https://meetingsemea7.webex.com/meetingsemea7/j.php?MTID=mbbc048f0c6475ffb66d0547b40518ac2
+* Meeting-Kennnummer: 953 708 781
+* Passwort: elasticsearch
+
+Alexander Reelsen von https://www.elastic.co/ besucht uns virtuell und bringt die folgenden Vorträge mit:
 
 # Testing Elasticsearch - Von Unit- über Integrationstests bis hin zum Release
 
