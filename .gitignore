@@ -1,2 +1,4 @@
 public/
 resources/_gen/
+.idea
+stale_outputs_checked

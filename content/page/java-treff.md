@@ -4,29 +4,14 @@ subtitle: jeden 2. Dienstag im Monat
 comments: false
 ---
 
-Der Java-Treff ist unsere monatliche Veranstaltung mit Vorträgen, Austausch und Diskussion. 
+Der Java-Treff ist unsere monatliche Veranstaltung mit Vorträgen, Austausch und Diskussion.
 ~~Auch das leibliche Wohl kommt an unserem bewirtetem Veranstaltungsort - der [Sportgaststätte des SV Zuchering](https://goo.gl/maps/WdFPbCwjdqWQr5eUA) - nicht zu kurz.~~
-***Bis auf weiteres treffen wir uns ausschließlich virtuell.***
+
+***Ortsangabe oder Einwahldaten für den nächsten Java-Treff folgen.***
 
 ---
 
-#### Java-Treff im April
-### 14.04.2020 - 18:30 Uhr
+#### Java-Treff im Mai
+### 12.05.2020 - 18:30 Uhr
 
-**Aufgrund der aktuellen Situation wird der Java-Treff im April virtuell durchgeführt**
-
-*Einwahldaten:*
-* Meeting-Link: https://meetingsemea7.webex.com/meetingsemea7/j.php?MTID=mbbc048f0c6475ffb66d0547b40518ac2
-* Meeting-Kennnummer: 953 708 781
-* Passwort: elasticsearch
-
-Alexander Reelsen von https://www.elastic.co/ besucht uns virtuell und bringt die folgenden Vorträge mit:
-
-# Testing Elasticsearch - Von Unit- über Integrationstests bis hin zum Release
-
-Testen muss jeder, egal ob kleiner Webshop oder eine beliebte verteilte Suchmaschine wie Elasticsearch. In diesem Vortrag geht es um die verschiedenen Teststrategien innerhalb von Elasticsearch, angefangen bei Unit Tests und Integration Tests, der Verwendung von randomized Testing, automatisiertes Testen der produzierten Artefakte. Des Weiteren wird die CI Infrastruktur beleuchtet, und was schlußendlich passiert, wenn eine neue Elasticsearch Version veröffentlicht wird.
-Der Fokus des Vortrags liegt auf größtmöglicher Automatisierung jedweder Prozesse im Lebenszyklus von Elasticsearch und zeigt auch, welche Teile besonders hart zu automatisieren sind.
-
-# Elasticsearch - Securing A Search Engine While Maintaining Usability
-
-Elasticsearch - das Herz des Elastic Stacks - ist als verteilte, skaliarbare Volltextsuchmaschine und für Analytics bekannt.  Zehntausende Elasticsearch Instanzen & Cluster laufen weltweit, so dass trotz aller neuen Features in jedem Release auch über das Thema Sicherheit nachgedacht werden muss. Dieser Vortrag geht auf unterschiedliche Aspekte von Elasticsearch im Bereich Sicherheit ein, zeigt eine Einführung in den Java Security Manager sowie dessen Verwendung in Elasticsearch. Des Weiteren werden auch native Betriebssystem Sicherheitskomponenten wie seccomp erläutert und wie diese in Java Anwendungen verwendet werden können. Ziel des Vortrags ist es nicht nur, auf einige Details in Elasticsearch einzugehen, sondern vielmehr die Zuhörer dazu zu bekommen, diese Themen auch in ihren eigenen Apps zu berücksichtigen.
+**Balázs Endrédi** von [BESK](https://www.beskgroup.com/) wird uns Cloud-Native Architekturansätze seines Workshops "[Scale Intelligently in Your Cloud](http://scale-intelligently-in-your-cloud.com/)" offenbaren.
