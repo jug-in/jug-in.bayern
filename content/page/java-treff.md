@@ -7,7 +7,13 @@ comments: false
 Der Java-Treff ist unsere monatliche Veranstaltung mit Vorträgen, Austausch und Diskussion.
 ~~Auch das leibliche Wohl kommt an unserem bewirtetem Veranstaltungsort - der [Sportgaststätte des SV Zuchering](https://goo.gl/maps/WdFPbCwjdqWQr5eUA) - nicht zu kurz.~~
 
-***Ortsangabe oder Einwahldaten für den nächsten Java-Treff folgen.***
+*Unser Java-Treff im Mai findet wieder virtuell statt, jeder ist willkommen:*
+
+**Meeting-Link:** [WebEx](https://meetingsemea7.webex.com/meetingsemea7-de/j.php?MTID=m8c04603cad71e7e69ec39c69a9bda90c)
+
+**Meeting-Kennnummer:** `140 101 883`
+
+**Passwort:** `wolkig` (`965544` über Telefon- und Videosysteme)
 
 ---
 
