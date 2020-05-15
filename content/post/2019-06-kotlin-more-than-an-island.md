@@ -6,4 +6,4 @@ date: 2019-06-11
 ### Florian Heubeck & Bernd Stübinger
 ## Pattern discussion
 
-Einblicke ins Kotlin.
+Einblicke in Kotlin.
