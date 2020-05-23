@@ -6,4 +6,4 @@ Als Java-User-Group liegt unser Fokus natürlich auf der Java-Plattform mit all 
 ## nächster Java-Treff am 09.06.2020
 
 Unser monatlicher Termin ist kostenfrei und offen für jeden.
-### [Doppelte Vortragskraft: Github "Secrets" & Verteiltes Caching]({{< ref "/page/java-treff.md" >}})
+### [Doppelte Vortragskraft: Github "Secrets" & Caching]({{< ref "/page/java-treff.md" >}})
