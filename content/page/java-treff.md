@@ -10,14 +10,13 @@ Der Java-Treff ist unsere monatliche Veranstaltung mit Vorträgen, Austausch und
 _Vorläufig treffen wir uns ausschließlich virtuell_
 
 
-#### Java-Treff im Juni
-### 09.06.2020 - 18:30 Uhr
+#### Java-Treff im Juli
+### 14.07.2020 - 18:30 Uhr
 
 ***Veranstaltungsort ist [Google Meet](https://meet.google.com/get-jzpw-qxm).***
 
-Im Juni warten gleich zwei spannende Vorträge auf uns:
+*Im Juli haben wir noch Platz für Themen, eine spannende "Geschichte" erwartet uns jedoch schon:*
 
-* **[Richard Steinbrück](https://github.com/steinbrueckri)** erzählt uns alles über Github, das wir schon immer wissen wollten uns nur nie getraut haben zu fragen.
-* **Bernd Stübinger** bringt Licht in die düstersten Ecken jedes Caches.
+* **[Tung Beier](https://tungbeier.github.io/)** erzählt uns vom Entwicklerleben ohne Maus - von Händen, die die Tastatur nur zum Kaffeeholen und -wegbringen verlassen.
 
 ---

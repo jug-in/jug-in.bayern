@@ -71,25 +71,31 @@ pygmentCodeFences = true
 
 [[menu.main]]
     parent = "talks"
+    name = "ÜBERSICHT"
+    url = "post"
+    weight = 1
+
+[[menu.main]]
+    parent = "talks"
     name = "Elasticsearch"
     url = "post/2020-04-elasticsearch"
-    weight = 1
+    weight = 2
 
 [[menu.main]]
     parent = "talks"
     name = "Microstream"
     url = "post/2020-03-microstream"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     parent = "talks"
     name = "How to quit Vim"
     url = "post/2019-05-how-to-quit-vim"
-    weight = 3
+    weight = 4
 
 
 [[menu.main]]
     parent = "talks"
     name = "Cloud-Native Architektur"
     url = "post/2020-05-cloud-native-architecture"
-    weight = 4
+    weight = 5
