@@ -10,13 +10,11 @@ Der Java-Treff ist unsere monatliche Veranstaltung mit Vorträgen, Austausch und
 _Vorläufig treffen wir uns ausschließlich virtuell_
 
 
-#### Java-Treff im Juli
-### 14.07.2020 - 18:30 Uhr
+#### Java-Treff im September
+### 08.09.2020 - 18:30 Uhr
 
 ***Veranstaltungsort ist [Google Meet](https://meet.google.com/get-jzpw-qxm).***
 
-*Im Juli haben wir noch Platz für Themen, eine spannende "Geschichte" erwartet uns jedoch schon:*
-
-* **[Tung Beier](https://tungbeier.github.io/)** erzählt uns vom Entwicklerleben ohne Maus - von Händen, die die Tastatur nur zum Kaffeeholen und -wegbringen verlassen.
+_Bislang noch kein Programm. [Lust uns mit einem Vortrag zu bereichern?](mailto:info@jug-in.bayern)_
 
 ---

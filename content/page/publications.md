@@ -4,6 +4,7 @@ subtitle: Talks und Präsentationen
 comments: true
 ---
 
+* [Going mouseless](https://jug-in.github.io/jug-in.talks/going.mouseless.html)
 * [Caching](https://jug-in.github.io/jug-in.talks/caching.html)
 * [java.time (JSR 310)](https://jug-in.github.io/jug-in.talks/java.time.html)
 * [GitOps (Java aktuell 06/2019)](https://github.com/jug-in/publikationen/raw/master/06_2019-java_aktuell-bernd_stuebinger_florian_heubeck-gitops_mit_helm_und_kubernetes.pdf)

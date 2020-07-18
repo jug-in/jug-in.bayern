@@ -99,3 +99,9 @@ pygmentCodeFences = true
     name = "Cloud-Native Architektur"
     url = "post/2020-05-cloud-native-architecture"
     weight = 5
+
+[[menu.main]]
+    parent = "talks"
+    name = "Going mouseless"
+    url = "post/2020-07-mouseless"
+    weight = 5
