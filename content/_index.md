@@ -5,6 +5,8 @@ Als Java-User-Group liegt unser Fokus natürlich auf der Java-Plattform mit all 
 
 ## nächster Java-Treff am Dienstag den 8. September
 
-Unser monatlicher Termin ist kostenfrei und offen für jeden.
+[Programm der nächsten Java-Treffs]({{< ref "/page/java-treff.md" >}})
 
-_Im August findet kein Java-Treff statt, sollte es möglich sein, würden wir uns gerne in geselliger Runde treffen._
+### Ankündigung: Am 13. Oktober besucht uns **Jakub Scholz** von Red Hat um uns ausführlich über Apache Kafka zu unterrichten.
+
+[Details]({{< ref "/page/java-treff.md" >}})
