@@ -15,7 +15,7 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 ***Veranstaltungsort ist [Google Meet](https://meet.google.com/get-jzpw-qxm).***
 
 The Java-Treff in Oktober will get very special to us:
-We welcome **Jakub Scholz**, who's working at RedHat as a designated Kafka and messaging expert.
+We welcome **Jakub Scholz**, who's working at Red Hat as a designated Kafka and messaging expert.
 
 Jakub will not only introduce Kafka and its usage to us but also have a few words on his current project the Strimzi operator.
 

@@ -5,4 +5,4 @@ Als Java-User-Group liegt unser Fokus natürlich auf der Java-Plattform mit all 
 
 ## nächster Java-Treff am Dienstag den 13. Oktober:
 
-[**Jakub Scholz** von Red Hat besucht uns für eine ausführliche Unterweisung in Apache Kafka]({{< ref "/page/java-treff.md" >}})
+[**Jakub Scholz** von Red Hat besucht uns für eine ausführliche Unterweisung in ***Apache Kafka***]({{< ref "/page/java-treff.md" >}})
