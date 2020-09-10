@@ -9,7 +9,9 @@ Der Java-Treff ist unsere monatliche Veranstaltung mit Vorträgen, Austausch und
 
 _Vorläufig treffen wir uns ausschließlich virtuell_
 
-#### Java-Treff im Oktober: Kafka Special with **Jakub Scholz** (Red Hat)
+---
+
+#### Kafka Special with *Jakub Scholz (Red Hat)*
 ### 13.10.2020 - 18:30 Uhr
 
 ***Veranstaltungsort ist [Google Meet](https://meet.google.com/get-jzpw-qxm).***
@@ -22,3 +24,21 @@ Jakub will not only introduce Kafka and its usage to us but also have a few word
 Jakub offered to assemble a talk especially for us, so please stay tuned.
 
 ---
+
+#### Java-Treff im November
+### 10.11.2020 - 18:30 Uhr
+
+Für November haben wir noch kein Programm. Wir erarbeiten gerade das Sammeln und Planen von Themen/Vorträgen/Shows und dergleichen.
+Dies wollen wir an diesem Termin vorstellen und Euer Feedback einholen.
+
+Ansonsten wie immer der Aufruf: Ihr habt was zu sagen? Wir hören Euch zu, meldet Euch gern bei uns.
+
+---
+
+#### Cyber Security für Entwickler von und mit *Simon Trockel (MediaMarktSaturn Technology)*
+### 08.12.2020 - 18:30 Uhr
+
+Im Dezember beehrt uns **Simon Trockel**, ein sehr erfahrener Cyber Security Berater und "Tester".
+Simon hat schon einiges gesehen, wer Spaß an haarsträubenden Schmankerln von Sicherheitsverstößen und -katastrophen hat, kommt hier sicher auf seine Kosten.
+
+Natürlich hat Simon auch einiges im Repertoire, das uns Entwicklern hilft, Leuten wie Simon den Spaß zu verderben.
