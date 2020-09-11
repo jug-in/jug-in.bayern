@@ -3,7 +3,7 @@ title: Pattern discussion
 date: 2019-06-11
 ---
 
-### Florian Heubeck
+### Kevin Fritz
 ## Pattern discussion
 
 Nutzung von Pattern in Java.

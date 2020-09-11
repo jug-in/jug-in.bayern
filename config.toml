@@ -14,8 +14,8 @@ pygmentCodeFences = true
 #googleAnalytics = "UA-158889963-1"
 
 [Params]
-  navbarTitle = "Java-User-Group Ingolstadt e.V."
-  subtitle = "Java-User-Group Ingolstadt e.V."
+  navbarTitle = "Java User Group Ingolstadt e.V."
+  subtitle = "Java User Group Ingolstadt e.V."
   logo = "img/jug-in.png"
   favicon = "img/favicon.ico"
   dateFormat = "02.01.2006"
@@ -25,11 +25,12 @@ pygmentCodeFences = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 [[Params.bigimg]]
-  src = "img/cloud.jpg"
+  src = "img/coffee.jpg"
 
 [Author]
-  name = "jug in - Java-User-Group Ingolstadt e.V."
+  name = "jug in - Java User Group Ingolstadt e.V."
   email = "info@jug-in.bayern"
+  twitter = "jug_ingolstadt"
   gitlab = "jug-in"
   github = "jug-in"
   linkedin = "8766833"
