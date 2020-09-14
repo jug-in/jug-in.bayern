@@ -53,6 +53,12 @@ title = "Xing"
 icon = "fab fa-xing"
 
 [[social_icons]]
+id = "slack"
+url = "https://jvm-german.slack.com/app_redirect?channel=%s"
+title = "Slack"
+icon = "fab fa-slack"
+
+[[social_icons]]
 id = "discord"
 url = "https://discord.gg/%s"
 title = "Discord"
