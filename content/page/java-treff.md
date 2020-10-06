@@ -48,8 +48,7 @@ Natürlich hat Simon auch einiges im Repertoire, das uns Entwicklern hilft, Leut
 #### Modern Reactive Java by *Julien Ponge (Red Hat)*
 ### 12.01.2021 - 18:30 Uhr *CET | English*
 
-It's quite some time to January - perfect for reading [Vert.x in Action](https://www.manning.com/books/vertx-in-action) until then, the book **[Julien Ponge](https://github.com/jponge)** just published.
-
+It's quite some time to January - perfect for reading [Vert.x in Action](https://www.manning.com/books/vertx-in-action) until then, the book **[Julien Ponge](https://julien.ponge.org)** just published.
 Aloneside Vert.x, Julien is working on [SmallRye Mutiny](https://smallrye.io/smallrye-mutiny/), the brand new reactive library with first class support in [Quarkus](https://quarkus.io/guides/getting-started-reactive) working there in perfect harmony with Vert.x.
 
 And now the best: Julien visits our Java-Treff in January and will talk about all this stuff. To quote him: "It will be fun!"
