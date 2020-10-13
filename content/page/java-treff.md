@@ -23,6 +23,10 @@ Jakub will not only introduce Kafka and its usage to us but also have a few word
 
 Jakub offered to assemble a talk especially for us, so please stay tuned.
 
+**Thank you a lot Jakub, was a great and comprehensive introduction to Kafka and Strimzi.**
+
+The slides of Jakubs talks can be found [here](http://www.jsch.cz/jugingolstadt).
+
 ---
 
 #### Java-Treff im November
