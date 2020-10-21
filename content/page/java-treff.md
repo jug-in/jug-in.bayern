@@ -11,31 +11,13 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ---
 
-#### Kafka Special with *Jakub Scholz (Red Hat)*
-### 13.10.2020 - 18:30 Uhr *CEST | English*
-
-***Veranstaltungsort ist [Google Meet](https://meet.google.com/get-jzpw-qxm).***
-
-The Java-Treff in Oktober will get very special to us:
-We welcome **Jakub Scholz**, who's working at Red Hat as a designated Kafka and messaging expert.
-
-Jakub will not only introduce Kafka and its usage to us but also have a few words on his current project the Strimzi operator.
-
-Jakub offered to assemble a talk especially for us, so please stay tuned.
-
-**Thank you a lot Jakub, was a great and comprehensive introduction to Kafka and Strimzi.**
-
-The slides of Jakubs talks can be found [here](http://www.jsch.cz/jugingolstadt).
-
----
-
-#### Java-Treff im November
+#### Java-Treff im November: *Java 15 mit Jochen*
 ### 10.11.2020 - 18:30 Uhr *CET | German*
 
-Für November haben wir noch kein Programm. Wir erarbeiten gerade das Sammeln und Planen von Themen/Vorträgen/Shows und dergleichen.
+Wir erarbeiten gerade das Sammeln und Planen von Themen/Vorträgen/Shows und dergleichen.
 Dies wollen wir an diesem Termin vorstellen und Euer Feedback einholen.
 
-Ansonsten wie immer der Aufruf: Ihr habt was zu sagen? Wir hören Euch zu, meldet Euch gern bei uns.
+Des Weiteren haben wir den hochinteressanten Programmpunkt "**Java 15**" dessen Neuerungen uns **Jochen Bürkle (JUG IN)** näherbringt.
 
 ---
 
@@ -53,7 +35,7 @@ Natürlich hat Simon auch einiges im Repertoire, das uns Entwicklern hilft, Leut
 ### 12.01.2021 - 18:30 Uhr *CET | English*
 
 It's quite some time to January - perfect for reading [Vert.x in Action](https://www.manning.com/books/vertx-in-action) until then, the book **[Julien Ponge](https://julien.ponge.org)** just published.
-Aloneside Vert.x, Julien is working on [SmallRye Mutiny](https://smallrye.io/smallrye-mutiny/), the brand new reactive library with first class support in [Quarkus](https://quarkus.io/guides/getting-started-reactive) working there in perfect harmony with Vert.x.
+Alongside Vert.x, Julien is working on [SmallRye Mutiny](https://smallrye.io/smallrye-mutiny/), the brand new reactive library with first class support in [Quarkus](https://quarkus.io/guides/getting-started-reactive) working there in perfect harmony with Vert.x.
 
 And now the best: Julien visits our Java-Treff in January and will talk about all this stuff. To quote him: "It will be fun!"
 
