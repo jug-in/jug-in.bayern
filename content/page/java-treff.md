@@ -11,8 +11,10 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ---
 
-#### Java-Treff im November: *Java 15 mit Jochen*
+#### Neuerungen in Java 15 mit *Jochen Bürkle*
 ### 10.11.2020 - 18:30 Uhr *CET | German*
+
+Veranstaltungsort: [Online](https://meet.google.com/get-jzpw-qxm)
 
 Wir erarbeiten gerade das Sammeln und Planen von Themen/Vorträgen/Shows und dergleichen.
 Dies wollen wir an diesem Termin vorstellen und Euer Feedback einholen.
