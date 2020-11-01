@@ -11,7 +11,7 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ---
 
-#### Neuerungen in Java 15 mit *Jochen Bürkle*
+#### Neuerungen in Java 15 mit *Jochen Bürkle* & Software Esoterik mit *Bernd Stübinger*
 ### 10.11.2020 - 18:30 Uhr *CET | German*
 
 Veranstaltungsort: [Online](https://meet.google.com/get-jzpw-qxm)
@@ -20,6 +20,10 @@ Wir erarbeiten gerade das Sammeln und Planen von Themen/Vorträgen/Shows und der
 Dies wollen wir an diesem Termin vorstellen und Euer Feedback einholen.
 
 Des Weiteren haben wir den hochinteressanten Programmpunkt "**Java 15**" dessen Neuerungen uns **Jochen Bürkle (JUG IN)** näherbringt.
+
+Des Guten nicht genug pilotiert **Bernd Stübinger (JUG IN)** seine Serie "**Esoterische Programmiersprachen**".
+
+Es gibt also jede Menge (zumeist) nützliche Dinge zu lernen und am Unterhaltungswert wird es auch nicht fehlen.
 
 ---
 
