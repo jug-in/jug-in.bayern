@@ -11,29 +11,15 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ---
 
-#### Neuerungen in Java 15 mit *Jochen Bürkle* & Software Esoterik mit *Bernd Stübinger*
-### 10.11.2020 - 18:30 Uhr *CET | German*
-
-Veranstaltungsort: [Online](https://meet.google.com/get-jzpw-qxm)
-
-Wir erarbeiten gerade das Sammeln und Planen von Themen/Vorträgen/Shows und dergleichen.
-Dies wollen wir an diesem Termin vorstellen und Euer Feedback einholen.
-
-Des Weiteren haben wir den hochinteressanten Programmpunkt "**Java 15**" dessen Neuerungen uns **Jochen Bürkle (JUG IN)** näherbringt.
-
-Des Guten nicht genug pilotiert **Bernd Stübinger (JUG IN)** seine Serie "**Esoterische Programmiersprachen**".
-
-Es gibt also jede Menge (zumeist) nützliche Dinge zu lernen und am Unterhaltungswert wird es auch nicht fehlen.
-
----
-
 #### Cyber Security für Entwickler von und mit *Simon Trockel (MediaMarktSaturn Technology)*
 ### 08.12.2020 - 18:30 Uhr *CET | German*
+
+Veranstaltungsort: [Online](https://meet.google.com/get-jzpw-qxm)
 
 Im Dezember beehrt uns **Simon Trockel**, ein sehr erfahrener Cyber Security Berater und "Tester".
 Simon hat schon einiges gesehen, wer Spaß an haarsträubenden Schmankerln von Sicherheitsverstößen und -katastrophen hat, kommt hier sicher auf seine Kosten.
 
-Natürlich hat Simon auch einiges im Repertoire, das uns Entwicklern hilft, Leuten wie Simon den Spaß zu verderben.
+Natürlich hat Simon auch einiges im Repertoire, das uns Entwicklern hilft Leuten wie Ihm den Spaß zu verderben.
 
 ---
 
