@@ -21,6 +21,10 @@ Simon hat schon einiges gesehen, wer Spaß an haarsträubenden Schmankerln von S
 
 Natürlich hat Simon auch einiges im Repertoire, das uns Entwicklern hilft Leuten wie Ihm den Spaß zu verderben.
 
+Simons Agenda sieht einen Walk-through der OWASP Top 10 vor, die er am "Juice-Shop" (wörtlich zu nehmen) demonstriert, freut Euch außerdem auf die zugehörigen Anekdoten.
+
+Abgerundet wird der Abend durch einige praktische Tools sowie Material zum "Nachbereiten" und selber (kaputt) machen.
+
 ---
 
 #### Modern Reactive Java by *Julien Ponge (Red Hat)*
