@@ -11,24 +11,10 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ---
 
-#### Cyber Security für Entwickler von und mit *Simon Trockel (MediaMarktSaturn Technology)*
-### 08.12.2020 - 18:30 Uhr *CET | German*
-
-Veranstaltungsort: [Online](https://meet.google.com/get-jzpw-qxm)
-
-Im Dezember beehrt uns **Simon Trockel**, ein sehr erfahrener Cyber Security Berater und "Tester".
-Simon hat schon einiges gesehen, wer Spaß an haarsträubenden Schmankerln von Sicherheitsverstößen und -katastrophen hat, kommt hier sicher auf seine Kosten.
-
-Natürlich hat Simon auch einiges im Repertoire, das uns Entwicklern hilft Leuten wie Ihm den Spaß zu verderben.
-
-Simons Agenda sieht einen Walk-through der OWASP Top 10 vor, die er am "Juice-Shop" (wörtlich zu nehmen) demonstriert, freut Euch außerdem auf die zugehörigen Anekdoten.
-
-Abgerundet wird der Abend durch einige praktische Tools sowie Material zum "Nachbereiten" und selber (kaputt) machen.
-
----
-
 #### Modern Reactive Java by *Julien Ponge (Red Hat)*
 ### 12.01.2021 - 18:30 Uhr *CET | English*
+
+Location: [Online](https://meet.google.com/get-jzpw-qxm)
 
 It's quite some time to January - perfect for reading [Vert.x in Action](https://www.manning.com/books/vertx-in-action) until then, the book **[Julien Ponge](https://julien.ponge.org)** just published.
 Alongside Vert.x, Julien is working on [SmallRye Mutiny](https://smallrye.io/smallrye-mutiny/), the brand new reactive library with first class support in [Quarkus](https://quarkus.io/guides/getting-started-reactive) working there in perfect harmony with Vert.x.
