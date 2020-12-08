@@ -1,5 +1,5 @@
 ---
-title: Cyber Security für Entwickler von und mit *Simon Trockel (MediaMarktSaturn Technology)*
+title: Cyber Security für Entwickler
 date: 2020-12-08
 ---
 
@@ -13,4 +13,4 @@ Abgerundet wurde der Abend durch einige praktische Tools.
 
 Simons Demonstration könnt Ihr selbst nachvollziehen: https://github.com/BobcatProgrammer/owasp-juiceshop-demo
 
-Vielen Dank Simon, für den informativen und unterhaltsamen Abend.
+Vielen Dank Simon für den informativen und unterhaltsamen Abend.
