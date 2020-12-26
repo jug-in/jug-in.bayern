@@ -16,9 +16,21 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 Location: [Online](https://meet.google.com/get-jzpw-qxm)
 
-It's quite some time to January - perfect for reading [Vert.x in Action](https://www.manning.com/books/vertx-in-action) until then, the book **[Julien Ponge](https://julien.ponge.org)** just published.
+At the first Java-Meetup in 2021 we welcome **[Julien Ponge](https://julien.ponge.org)** who just published
+his latest writing [Vert.x in Action](https://www.manning.com/books/vertx-in-action).
+
 Alongside Vert.x, Julien is working on [SmallRye Mutiny](https://smallrye.io/smallrye-mutiny/), the brand new reactive library with first class support in [Quarkus](https://quarkus.io/guides/getting-started-reactive) working there in perfect harmony with Vert.x.
 
-And now the best: Julien visits our Java-Treff in January and will talk about all this stuff. To quote him: "It will be fun!"
+Julien worked and taught almost ten years at the [INSA in Lyon](https://www.insa-lyon.fr/en/) and works since quite a while at **Red Hat** on reactive topics around Java.
 
-Look forward to christmas but what comes next will be even better.
+He stated out "It will be fun!" on our request to give us a talk about modern reactive developments with Java, so please stay tuned.
+
+---
+
+#### Mitglieder-Hauptversammlung gemäß Satzung
+### 09.02.2021 - 18:30 Uhr *CET*
+
+_Die diesjährige Hauptversammlung werden wir virtuell durchführen._
+
+Agenda und Einladung sowie Einwahldaten folgen, wir müssen dieses Jahr Neuwahlen der Vorstandschaft durchführen.
+Nominierungen können vorab schriftlich (vorstand@jug-in.bayern) oder mündlich in der Versammlung erfolgen.

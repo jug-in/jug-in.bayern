@@ -5,5 +5,11 @@ Als Java User Group liegt unser Fokus natürlich auf der Java-Plattform mit all 
 
 ## [nächster Java-Treff am Dienstag, den 12. Januar:]({{< ref "/page/java-treff.md" >}})
 
-### Modern Reactive Java
-#### by *Julien Ponge (Red Hat)*
+## Modern Reactive Java (EN)
+### by *Julien Ponge (Red Hat)*
+
+---
+
+### Mitglieder-Hauptversammlung am 9. Februar 2021
+
+_Einladung und Agenda folgt._
