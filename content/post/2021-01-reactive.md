@@ -17,4 +17,4 @@ _And it was!_
 
 Thank you Julien for that very good and comprehensive flight through reactive systems and reactive programming with Java.
 
-**Please find Juliens code examples at [Github](https://github.com/jponge/ingolstadt-jug-january-2021) and his Mutiny workshop code [here](https://github.com/jponge/mutiny-workshop-examples)**.
+**Julien provided us his slides, please find them [here as PDF](https://github.com/jug-in/jug-in.talks/raw/master/3rd/ingolstadt-jug-jan2021.pdf) and don't miss his reactive service mesh example at [Github](https://github.com/jponge/ingolstadt-jug-january-2021) as well as his Mutiny workshop code [here](https://github.com/jponge/mutiny-workshop-examples)**.
