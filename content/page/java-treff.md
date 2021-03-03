@@ -12,7 +12,7 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 ---
 
 #### Bernd präsentiert: Software Esotherik &
-#### Testcontainers mit Jochen
+#### "Neovim is all you need" mit Richard
 ### 09.03.2021 - 18:30 Uhr *CET*
 
 ***Veranstaltungsort (virtuell):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
