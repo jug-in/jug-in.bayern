@@ -11,11 +11,10 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ---
 
-#### Bernd präsentiert: Software Esotherik &
-#### "Neovim is all you need" mit Richard
-### 09.03.2021 - 18:30 Uhr *CET*
+#### JDK 16: Neuerungen und Änderungen
+### 13.04.2021 - 18:30 Uhr *CEST*
 
 ***Veranstaltungsort (virtuell):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
 
-
-
+*Ihr wollt uns mit einem Vortrag bereichern, oder frei über ein Thema diskutieren?
+Meldet Euch einfach per [Mail](mailto:info@jug-in.bayern).*
