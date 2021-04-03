@@ -16,5 +16,23 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ***Veranstaltungsort (virtuell):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
 
+
+Natürlich ist es für uns Pflichtprogramm nach der Veröffentlichung von Java 16 die Liste der Neuerungen zu erkunden.
+
+Solltet Ihr bereits Erfahrungen mit der Umstellung auf JDK 16 gemacht haben, würden wir uns freuen, wenn Ihr Eure Erlebnisse mit uns teilen würdet.
+
+---
+
+#### Quarkus World Tour
+### 13.07.2021 - 18:30 Uhr *CEST*
+
+***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
+
+We are happy to announce a tour stop of the [Quarkus World Tour](https://quarkus.io/worldtour/) at our site.
+
+The agenda and more details about the speakers will be shared here as soon as available, please stay tuned.
+
+---
+
 *Ihr wollt uns mit einem Vortrag bereichern, oder frei über ein Thema diskutieren?
 Meldet Euch einfach per [Mail](mailto:info@jug-in.bayern).*
