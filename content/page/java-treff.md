@@ -11,15 +11,12 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ---
 
-#### JDK 16: Neuerungen und Änderungen
-### 13.04.2021 - 18:30 Uhr *CEST*
+#### Java-Treff im Mai - offene Agenda
+### 11.05.2021 - 18:30 Uhr *CEST*
 
 ***Veranstaltungsort (virtuell):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
 
-
-Natürlich ist es für uns Pflichtprogramm nach der Veröffentlichung von Java 16 die Liste der Neuerungen zu erkunden.
-
-Solltet Ihr bereits Erfahrungen mit der Umstellung auf JDK 16 gemacht haben, würden wir uns freuen, wenn Ihr Eure Erlebnisse mit uns teilen würdet.
+Die Agenda für Mai steht noch nicht fest, bitte meldet Euch gerne mit Vorträgen oder Diskussionen, die Ihr gerne führen würdet.
 
 ---
 
