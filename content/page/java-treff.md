@@ -11,20 +11,6 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ---
 
-#### Java-Treff im Mai - Remote Pair/Mob Programming
-### 11.05.2021 - 18:30 Uhr *CEST*
-
-***Veranstaltungsort (virtuell):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
-
-Im Mai haben wir leider keinen Vortrag für Euch, im Mai müsst Ihr selbst ran!
-
-Wir knüpfen uns Remote Pair/Mob Programmierungslösungen vor, live, im Netz, bis dass der Compiler glüht!
-Jeder ist eingeladen mitzumachen, wir werden in Gruppen die technischen Möglichkeiten für Pair- und Gruppenprogrammierung an einfachen Beispielen erproben und uns dabei sicher die Hände schmutzig machen.
-
-Nehmt teil, egal ob mit oder ohne Remote-*-Programmierungserfahrung, es wird sicher unterhaltsam, wir freuen uns auf Euch!
-
----
-
 #### Quarkus World Tour
 ### 13.07.2021 - 18:30 Uhr *CEST*
 
