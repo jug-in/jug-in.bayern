@@ -5,4 +5,4 @@ Als Java User Group liegt unser Fokus natürlich auf der Java-Plattform mit all 
 
 ## [Nächster Java-Treff am 13. Juli 2021]({{< ref "/page/java-treff.md" >}})
 
-### **Quarkus World Tour**
+### **Quarkus World Tour**: [Google Meet](https://meet.google.com/get-jzpw-qxm)

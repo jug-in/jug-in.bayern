@@ -3,8 +3,6 @@ title: Ultraschnelle Java In-Memory Datenbankanwendungen mit MicroStream
 date: 2020-03-10
 ---
 
-_Videoaufzeichnung folgt_
-
 ### Markus Kett, CEO MicroStream
 
 Dieser Vortrag zeigt auf, warum heutige Datenbanksysteme und In-Memory Technologien nicht zu Java passen, welche Folgen deren Einsatz zwangsläufig hat und stellt danach mit MicroStream den ersten, speziell für Java entwickelten Java-nativen Ansatz zur Datenspeicherung und dessen enormen Vorteilen für Java-Entwickler vor. 

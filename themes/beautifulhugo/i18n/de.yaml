@@ -2,35 +2,35 @@
 - id: dateFormat
   translation: "02.01.2006"
 - id: postedOnDate
-  translation: "Posted on {{ .Count }}"
+  translation: "Verfasst am {{ .Count }}"
 - id: translationsLabel
-  translation: "Other languages: "
+  translation: "Andere Sprachen: "
 - id: translationsSeparator
   translation: ", "
 - id: readMore
-  translation: "Read More"
+  translation: "Mehr lesen"
 - id: olderPosts
-  translation: "Older Posts"
+  translation: "Ältere Beiträge"
 - id: newerPosts
-  translation: "Newer Posts"
+  translation: "Neuere Beiträge"
 - id: previousPost
-  translation: "Previous Post"
+  translation: "Vorheriger Beitrag"
 - id: nextPost
-  translation: "Next Post"
+  translation: "Nächster Beitrag"
 
 # 404 page
 - id: pageNotFound
-  translation: "Whoops, this page doesn't exist. Move along. (404 error)"
+  translation: "Error 404: Out of coffee"
 
 # Navigation
 - id: toggleNavigation
-  translation: "Toggle navigation"
+  translation: "Navigation umschalten"
 - id: languageSwitcherLabel
-  translation: "Language"
+  translation: "Sprache"
 - id: gcseLabelShort
-  translation: "Search"
+  translation: "Suche"
 - id: gcseLabelLong
-  translation: "Search {{ .Site.Title }}"
+  translation: "Suche {{ .Site.Title }}"
 - id: gcseClose
-  translation: "Close"
+  translation: "Schließen"
 
