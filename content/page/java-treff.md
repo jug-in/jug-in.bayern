@@ -1,6 +1,6 @@
 ---
 title: Java-Treff
-subtitle: jeden 2. Dienstag im Monat
+subtitle: Jeden 2. Dienstag im Monat
 comments: false
 ---
 

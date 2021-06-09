@@ -3,7 +3,7 @@ title: Mitglieder-Hauptversammlung
 date: 2021-02-09
 ---
 
-*Die Einladung wurde fristgerecht am 2. Januar 2012 per E-Mail an den Mitgliederverteiler versendet.*
+*Die Einladung wurde fristgerecht am 2. Januar 2021 per E-Mail an den Mitgliederverteiler versendet.*
 
 ### Agenda:
 1. Begrüßung

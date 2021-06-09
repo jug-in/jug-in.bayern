@@ -1,4 +1,3 @@
-# baseurl = "https://www.jug-in.bayern"
 baseurl = "https://jug-in.bayern"
 contentdir    = "content"
 layoutdir     = "layouts"
@@ -6,7 +5,7 @@ publishdir    = "public"
 title = "JUG Ingolstadt"
 canonifyurls  = true
 
-DefaultContentLanguage = "de"
+defaultContentLanguage = "de"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
@@ -69,60 +68,5 @@ pygmentCodeFences = true
 
 [[menu.main]]
     name = "Talks"
-    identifier = "talks"
-    weight = 4
-
-[[menu.main]]
-    parent = "talks"
-    name = "ÜBERSICHT"
     url = "post"
-    weight = 1
-
-[[menu.main]]
-    parent = "talks"
-    name = "Modern Reactive Java"
-    url = "post/2021-01-reactive"
-    weight = 2
-
-[[menu.main]]
-    parent = "talks"
-    name = "Cyber Security"
-    url = "post/2020-12-security"
-    weight = 3
-
-[[menu.main]]
-    parent = "talks"
-    name = "Kafka Intro"
-    url = "post/2020-10-kafka"
     weight = 4
-
-[[menu.main]]
-    parent = "talks"
-    name = "Elasticsearch"
-    url = "post/2020-04-elasticsearch"
-    weight = 5
-
-[[menu.main]]
-    parent = "talks"
-    name = "Microstream"
-    url = "post/2020-03-microstream"
-    weight = 6
-
-[[menu.main]]
-    parent = "talks"
-    name = "How to quit Vim"
-    url = "post/2019-05-how-to-quit-vim"
-    weight = 7
-
-
-[[menu.main]]
-    parent = "talks"
-    name = "Cloud-Native Architektur"
-    url = "post/2020-05-cloud-native-architecture"
-    weight = 8
-
-[[menu.main]]
-    parent = "talks"
-    name = "Going mouseless"
-    url = "post/2020-07-mouseless"
-    weight = 9
