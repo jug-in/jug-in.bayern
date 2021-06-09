@@ -18,6 +18,8 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 We are happy to announce a tour stop of the [Quarkus World Tour](https://quarkus.io/worldtour/) at our site.
 
+!['Quarkus World Tour Stop Ingolstadt'](https://quarkus.io/assets/images/worldtour/twitter_1024x512_jugingolstadt.png)
+
 The agenda and more details about the speakers will be shared here as soon as available, please stay tuned.
 
 ---
