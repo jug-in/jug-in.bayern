@@ -38,7 +38,7 @@ Wir freuen uns tierisch, die Quarkus World Tour im virtuellen Ingolstadt begrü�
     * oder [lokal](https://cloud.redhat.com/openshift/create/local)
 * Und was ist eigentlich ein Kubernetes Operator (ohne Gewähr)
 
-Wanjas Session ist nicht nur spannend und informativ, sondern auch zum Mitmachen geeignet - wem die Finger krippeln, der sollte also seine IDE vorwärmen ;)
+Wanjas Session ist nicht nur spannend und informativ, sondern auch zum Mitmachen geeignet - wem die Finger kribbeln, der sollte also seine IDE vorwärmen ;)
 
 ---
 
