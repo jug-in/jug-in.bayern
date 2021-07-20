@@ -4,4 +4,4 @@ Wir sind ein junger Verein, der es sich zum Ziel gesetzt hat, eine starke Entwic
 Als Java User Group liegt unser Fokus natürlich auf der Java-Plattform mit all ihren Facetten, jedoch befassen wir uns mit der gesamten Bandbreite der Software-Entwicklung und des Betriebs.
 
 ## [Nächster Java-Treff:]({{< ref "/page/java-treff.md" >}})
-# am 10. August 2021
+# GitOps mit Schlomo Schapiro _(DB Systel GmbH)_ am 14. September 2021
