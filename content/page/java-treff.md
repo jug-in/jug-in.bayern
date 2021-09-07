@@ -11,15 +11,6 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ---
 
-### Sommerpause
-#### am 10. August 2021
-
-In der Urlaubssaison lassen wir den Java-Treff ausfallen.
-
-Wir wünschen Euch und Euren Familien eine erholsame Zeit, und freuen uns auf die vielen tollen Vorträge, die Ihr während dieser Erholungsphase ausarbeitet.
-
----
-
 ## GitOps im September
 ### 14.09.2021 - 18:30 Uhr *CEST*
 
@@ -30,7 +21,7 @@ Im September kommt uns [Schlomo Schapiro](https://schlomo.schapiro.org/) eines Z
 Schlomo ist sehr erfahrener und professioneller GitOps Praktiker, hat hierzu auch [einige Veröffentlichungen](https://schlomo.schapiro.org/p/5-devops-principles.html#materials) vorzuweisen.
 
 Schlomo wird mit uns über GitOps reden, es wird kein Frontalvortrag sein, sondern ein konstruktiver Austausch.
-Schaut Euch Schlomos Vortrag auf Youtube an, lest seine Publikationen, notiert Euch alles an Fragen und Unklarheiten, das Euch in den Sinn kommt - Schlomo wird uns Frage und Antwort stehen.
+Schaut Euch [Schlomos Vortrag auf Youtube](https://www.youtube.com/watch?v=_uDzXmbiUIg) an, lest seine Publikationen, notiert Euch alles an Fragen und Unklarheiten, das Euch in den Sinn kommt - Schlomo wird uns Frage und Antwort stehen.
 
 Des weiteren engagiert sich Schlomo in der GitOps Working-Group der CNCF und [arbeitet gerade an der Übersetzung](https://github.com/gitops-working-group/gitops-working-group/issues/161) der [GitOps Principles](https://github.com/open-gitops/documents/blob/main/PRINCIPLES.md) ins deutsche. Prägnante Formulierungen starker Aussagen sind eine Herausforderung, daher freut sich Schlomo über Mitarbeit und Diskussionen, die zu einem guten Ergebnis beitragen. 
 
