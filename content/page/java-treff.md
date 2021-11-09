@@ -12,7 +12,7 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 ---
 
 ## Java Mission Control & Flight Recorder; Kotlin spezial
-### 09.11.2021 - 18:30 Uhr *CEST*
+### 09.11.2021 - 18:30 Uhr *CET*
 
 ***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
 
@@ -21,7 +21,7 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 ---
 
 ## Investigating the Performance of Reactive Libraries in a Quarkus Micro-Service
-### 14.12.2021 - 18:30 Uhr *CEST*
+### 14.12.2021 - 18:30 Uhr *CET*
 
 ***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
 
