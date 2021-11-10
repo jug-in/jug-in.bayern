@@ -3,14 +3,16 @@
 <meta charset=utf-8>
 <meta http-equiv=x-ua-compatible content="IE=edge">
 <meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1">
-<title>Ultraschnelle Java In-Memory Datenbankanwendungen mit MicroStream</title>
-<meta property="og:title" content="Ultraschnelle Java In-Memory Datenbankanwendungen mit MicroStream">
-<meta name=twitter:title content="Ultraschnelle Java In-Memory Datenbankanwendungen mit MicroStream">
-<meta name=description content="Markus Kett, CEO MicroStream Dieser Vortrag zeigt auf, warum heutige Datenbanksysteme und In-Memory Technologien nicht zu Java passen, welche Folgen deren Einsatz zwangsläufig hat und stellt danach mit MicroStream den ersten, speziell für Java entwickelten Java-nativen Ansatz zur Datenspeicherung und dessen enormen Vorteilen für Java-Entwickler vor.
-Java ist die beste Technologie zur Entwicklung von unschlagbar schnellen Datenbankanwendungen. Mit Objektgraphen bietet Java die perfekte Datenstruktur. Selbst komplexeste Datenstrukturen lassen sich damit abbilden.">
-<meta property="og:description" content="Markus Kett, CEO MicroStream Dieser Vortrag zeigt auf, warum heutige Datenbanksysteme und In-Memory Technologien nicht zu Java passen, welche Folgen deren Einsatz zwangsläufig hat und stellt danach mit MicroStream den ersten, speziell für Java entwickelten Java-nativen Ansatz zur Datenspeicherung und dessen enormen Vorteilen für Java-Entwickler vor.
-Java ist die beste Technologie zur Entwicklung von unschlagbar schnellen Datenbankanwendungen. Mit Objektgraphen bietet Java die perfekte Datenstruktur. Selbst komplexeste Datenstrukturen lassen sich damit abbilden.">
-<meta name=twitter:description content="Markus Kett, CEO MicroStream Dieser Vortrag zeigt auf, warum heutige Datenbanksysteme und In-Memory Technologien nicht zu Java passen, welche Folgen deren Einsatz zwangsläufig hat und stellt danach …">
+<title>Java Mission Control & Flight Recorder; Kotlin spezial</title>
+<meta property="og:title" content="Java Mission Control & Flight Recorder; Kotlin spezial">
+<meta name=twitter:title content="Java Mission Control & Flight Recorder; Kotlin spezial">
+<meta name=description content="Miro Wengner, Principal Engineer bei OpenValue besuchte uns, hat uns Java Mission Control (JMC) näher gebraucht, und seine jüngsten Erkenntnisse des Profiling von Kotlin Anwendungen mit dem Java Flight Recorder (JFR) geteilt.
+Miros Java sowie Kotlin Code-Bespiele und Kurzanleitungen zum selbst-&ldquo;profilieren&rdquo; findet Ihr in seinem GitHub Repository, die gezeigten Folien hier.
+Vielen Dank Miro, für den gelungenen Einstieg in die Welt der JFR Events und ihrer Auswertung mittels JMC.">
+<meta property="og:description" content="Miro Wengner, Principal Engineer bei OpenValue besuchte uns, hat uns Java Mission Control (JMC) näher gebraucht, und seine jüngsten Erkenntnisse des Profiling von Kotlin Anwendungen mit dem Java Flight Recorder (JFR) geteilt.
+Miros Java sowie Kotlin Code-Bespiele und Kurzanleitungen zum selbst-&ldquo;profilieren&rdquo; findet Ihr in seinem GitHub Repository, die gezeigten Folien hier.
+Vielen Dank Miro, für den gelungenen Einstieg in die Welt der JFR Events und ihrer Auswertung mittels JMC.">
+<meta name=twitter:description content="Miro Wengner, Principal Engineer bei OpenValue besuchte uns, hat uns Java Mission Control (JMC) näher gebraucht, und seine jüngsten Erkenntnisse des Profiling von Kotlin Anwendungen mit dem Java …">
 <meta name=author content="jug in - Java User Group Ingolstadt e.V.">
 <link href=https://jug-in.bayern/img/favicon.ico rel=icon type=image/x-icon>
 <meta property="og:image" content="https://jug-in.bayern/img/jug-in.png">
@@ -18,11 +20,11 @@ Java ist die beste Technologie zur Entwicklung von unschlagbar schnellen Datenba
 <meta name=twitter:card content="summary">
 <meta name=twitter:site content="@jug_ingolstadt">
 <meta name=twitter:creator content="@jug_ingolstadt">
-<meta property="og:url" content="https://jug-in.bayern/post/2020-03-microstream/">
+<meta property="og:url" content="https://jug-in.bayern/post/2021-11-jmc-jfr/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="JUG Ingolstadt">
 <meta name=generator content="Hugo 0.89.2">
-<link rel=canonical href=https://jug-in.bayern/post/2020-03-microstream/>
+<link rel=canonical href=https://jug-in.bayern/post/2021-11-jmc-jfr/>
 <link rel=alternate href=https://jug-in.bayern/index.xml type=application/rss+xml title="JUG Ingolstadt">
 <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css integrity=sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0 crossorigin=anonymous>
 <link href=https://use.fontawesome.com/releases/v5.12.1/css/fontawesome.css rel=stylesheet crossorigin=anonymous>
@@ -84,7 +86,7 @@ Java User Group Ingolstadt e.V.
 <div class=row>
 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 <div class=post-heading>
-<h1>Ultraschnelle Java In-Memory Datenbankanwendungen mit MicroStream</h1>
+<h1>Java Mission Control & Flight Recorder; Kotlin spezial</h1>
 <span class=post-meta>
 </span>
 </div>
@@ -97,24 +99,13 @@ Java User Group Ingolstadt e.V.
 <div class=row>
 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 <article role=main class=blog-post>
-<h3 id=markus-kett-ceo-microstream>Markus Kett, CEO MicroStream</h3>
-<p>Dieser Vortrag zeigt auf, warum heutige Datenbanksysteme und In-Memory Technologien nicht zu Java passen, welche Folgen deren Einsatz zwangsläufig hat und stellt danach mit MicroStream den ersten, speziell für Java entwickelten Java-nativen Ansatz zur Datenspeicherung und dessen enormen Vorteilen für Java-Entwickler vor.</p>
-<p>Java ist die beste Technologie zur Entwicklung von unschlagbar schnellen Datenbankanwendungen. Mit Objektgraphen bietet Java die perfekte Datenstruktur. Selbst komplexeste Datenstrukturen lassen sich damit abbilden. Dazu bietet Java mit Streams eine mächtige, typsichere Abfragesprache. Das Durchsuchen selbst komplexester Objektgraphen mit extrem großen Datenmengen dauert dank Parallel Streams und JIT-Compiler meist nur wenige Millisekunden, oft sogar nur Mikrosekunden – im Schnitt bis zu 1.000 Mal schneller als heutige SQL/NoSQL Datenbanksysteme und sogar bis zu 100 Mal schneller als direkte Cache-Zugriffe. Das einzige was Java nicht selbst kann, ist Daten speichern.</p>
-<p>Um Daten persistent zu speichern, setzen wir bekanntlich externe Datenbanksysteme ein, die jedoch völlig anders als Java funktionieren und uns andere Datenstrukturen, andere Abfragesprachen sowie spezielle Datenbankfunktionen (Transaktionen, Trigger, Stored Procedures, User-Verwaltung, Session-Management, Import/Export Schnittstellen) vorgeben, die wir dann verwenden sollen. Die Folge: aufwändige Mappings, enorm hohe Komplexität, langsame Abfragen, langsame Cache-Zugriffe, permanente Performance Issues.</p>
-<p>MicroStream ist der erste Java-native Ansatz zur Datenspeicherung in Java. Mit MicroStream lassen sich erstmals beliebige Java Objektgraphen nativ speichern, d.h. genauso wie diese von der JVM im RAM verwaltet werden. Kein externes Datenbanksystem mehr. Kein aufwändiges Mapping mehr. Kein ORM-Framework mehr. Kein zusätzlicher Data-Cache mehr. Das Ergebnis ist eine ultraschnelle Pure-Java In-Memory Datenbank-Applikation, ultraschnelle Abfragen bis zu 1.000 Mal schneller als heutige Datenbanksysteme und bis zu 100 Mal schneller als jeder Data-Cache. Alles Pure Java. Und die Implementierung ist simpel.</p>
-<p>Im Rahmen einer spannenden Live-Demo demonstrieren wir, wie schnell Java im Vergleich zu heutigen Datenbanksystemen und In-Memory-Technologien ist, wie sich unterschiedliche JVMs und Garbage-Collectors auf die Performance auswirken und zeigen anhand von Code, wie die Entwicklung ultraschneller In-Memory Datenbank-Applikationen mit Pure Java und MicroStream funktioniert.</p>
-<p>Im Anschluss an den Vortrag sind ausführliche Q&A und Diskussionen möglich und erwünscht.</p>
-<h3 id=infos--download>Infos & Download:</h3>
-<p><a href=http://www.microstream.one>www.microstream.one</a></p>
-<h3 id=getting-started>Getting started:</h3>
-<p><a href=https://manual.docs.microstream.one/data-store/getting-started>https://manual.docs.microstream.one/data-store/getting-started</a></p>
+<p><strong><a href=https://www.linkedin.com/in/mwengner>Miro Wengner</a></strong>, Principal Engineer bei <a href=https://www.openvalue.eu>OpenValue</a> besuchte uns, hat uns <em><strong><a href=https://www.oracle.com/java/technologies/jdk-mission-control.html>Java Mission Control</a></strong></em> (JMC) näher gebraucht, und seine jüngsten Erkenntnisse des Profiling von Kotlin Anwendungen mit dem <em><strong>Java Flight Recorder</strong></em> (JFR) geteilt.</p>
+<p><strong>Miros Java sowie Kotlin Code-Bespiele und Kurzanleitungen zum selbst-&ldquo;profilieren&rdquo; findet Ihr in <a href=https://github.com/mirage22/jmc-jvm-lang-tutorial>seinem GitHub Repository</a>, die gezeigten <a href=https://raw.githubusercontent.com/mirage22/jmc-jvm-lang-tutorial/master/20211109_IngJUG_JFR_KotlinSpezial.pdf>Folien hier</a>.</strong></p>
+<p><em>Vielen Dank Miro, für den gelungenen Einstieg in die Welt der JFR Events und ihrer Auswertung mittels JMC.</em></p>
 </article>
 <ul class="pager blog-pager">
 <li class=previous>
-<a href=https://jug-in.bayern/post/2020-02-apache-beam/ data-toggle=tooltip data-placement=top title="Apache Beam">&larr; Vorheriger Beitrag</a>
-</li>
-<li class=next>
-<a href=https://jug-in.bayern/post/2020-04-elasticsearch/ data-toggle=tooltip data-placement=top title="Elasticsearch Double-Feature">Nächster Beitrag &rarr;</a>
+<a href=https://jug-in.bayern/post/2021-10-k8s-operator/ data-toggle=tooltip data-placement=top title="Kubernetes Operator mit Java">&larr; Vorheriger Beitrag</a>
 </li>
 </ul>
 </div>
