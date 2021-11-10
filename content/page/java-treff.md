@@ -11,15 +11,6 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ---
 
-## Java Mission Control & Flight Recorder; Kotlin spezial
-### 09.11.2021 - 18:30 Uhr *CET*
-
-***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
-
-### **[Miro Wengner](https://www.linkedin.com/in/mwengner)**, Principal Engineer bei [OpenValue](https://www.openvalue.eu) besucht uns, wird uns ***[Java Mission Control](https://www.oracle.com/java/technologies/jdk-mission-control.html)*** näher bringen, und seine jüngsten Erkenntnisse des Profiling von Kotlin Anwendungen mit dem ***Java Flight Recorder*** teilen.
-
----
-
 ## Investigating the Performance of Reactive Libraries in a Quarkus Micro-Service
 ### 14.12.2021 - 18:30 Uhr *CET*
 

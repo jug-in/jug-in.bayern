@@ -3,3 +3,4 @@ resources/_gen/
 .idea
 stale_outputs_checked
 *.iml
+.hugo_build.lock
