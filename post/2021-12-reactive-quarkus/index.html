@@ -3,17 +3,15 @@
 <meta charset=utf-8>
 <meta http-equiv=x-ua-compatible content="IE=edge">
 <meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1">
-<title>Modern Reactive Java</title>
-<meta property="og:title" content="Modern Reactive Java">
-<meta name=twitter:title content="Modern Reactive Java">
-<meta name=description content="Julien Ponge (Red Hat) At the first Java-Meetup in 2021 we welcomed Julien Ponge who just published his latest writing Vert.x in Action.
-Alongside Vert.x, Julien is working on SmallRye Mutiny, the brand new reactive library with first class support in Quarkus working there in perfect harmony with Vert.x.
-Julien worked and taught almost ten years at the INSA in Lyon and works since quite a while at Red Hat on reactive topics around Java.">
-<meta property="og:description" content="Julien Ponge (Red Hat) At the first Java-Meetup in 2021 we welcomed Julien Ponge who just published his latest writing Vert.x in Action.
-Alongside Vert.x, Julien is working on SmallRye Mutiny, the brand new reactive library with first class support in Quarkus working there in perfect harmony with Vert.x.
-Julien worked and taught almost ten years at the INSA in Lyon and works since quite a while at Red Hat on reactive topics around Java.">
-<meta name=twitter:description content="Julien Ponge (Red Hat) At the first Java-Meetup in 2021 we welcomed Julien Ponge who just published his latest writing Vert.x in Action.
-Alongside Vert.x, Julien is working on SmallRye Mutiny, the …">
+<title>Investigating the Performance of Reactive Libraries in a Quarkus Micro-Service</title>
+<meta property="og:title" content="Investigating the Performance of Reactive Libraries in a Quarkus Micro-Service">
+<meta name=twitter:title content="Investigating the Performance of Reactive Libraries in a Quarkus …">
+<meta name=description content="Denis Angeletta (RETIT) besuchte uns mit folgendem spannenden Thema:
+What’s the performance benefit of using reactive libraries in my Java applications? Can I go step-by-step, or do I need to go all-in and refactor the whole code to gain performance benefits of these reactive libraries? If you are dealing with similar questions, this talk is for you! In this talk, we will review different refactoring options for a Quarkus-based REST service using frameworks such as RESTEasy Reactive, Hibernate reactive and Mutiny from a performance perspective.">
+<meta property="og:description" content="Denis Angeletta (RETIT) besuchte uns mit folgendem spannenden Thema:
+What’s the performance benefit of using reactive libraries in my Java applications? Can I go step-by-step, or do I need to go all-in and refactor the whole code to gain performance benefits of these reactive libraries? If you are dealing with similar questions, this talk is for you! In this talk, we will review different refactoring options for a Quarkus-based REST service using frameworks such as RESTEasy Reactive, Hibernate reactive and Mutiny from a performance perspective.">
+<meta name=twitter:description content="Denis Angeletta (RETIT) besuchte uns mit folgendem spannenden Thema:
+What’s the performance benefit of using reactive libraries in my Java applications? Can I go step-by-step, or do I need to go …">
 <meta name=author content="jug in - Java User Group Ingolstadt e.V.">
 <link href=https://jug-in.bayern/img/favicon.ico rel=icon type=image/x-icon>
 <meta property="og:image" content="https://jug-in.bayern/img/jug-in.png">
@@ -21,11 +19,11 @@ Alongside Vert.x, Julien is working on SmallRye Mutiny, the …">
 <meta name=twitter:card content="summary">
 <meta name=twitter:site content="@jug_ingolstadt">
 <meta name=twitter:creator content="@jug_ingolstadt">
-<meta property="og:url" content="https://jug-in.bayern/post/2021-01-reactive/">
+<meta property="og:url" content="https://jug-in.bayern/post/2021-12-reactive-quarkus/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="JUG Ingolstadt">
 <meta name=generator content="Hugo 0.91.0">
-<link rel=canonical href=https://jug-in.bayern/post/2021-01-reactive/>
+<link rel=canonical href=https://jug-in.bayern/post/2021-12-reactive-quarkus/>
 <link rel=alternate href=https://jug-in.bayern/index.xml type=application/rss+xml title="JUG Ingolstadt">
 <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css integrity=sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0 crossorigin=anonymous>
 <link href=https://use.fontawesome.com/releases/v5.12.1/css/fontawesome.css rel=stylesheet crossorigin=anonymous>
@@ -87,7 +85,7 @@ Java User Group Ingolstadt e.V.
 <div class=row>
 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 <div class=post-heading>
-<h1>Modern Reactive Java</h1>
+<h1>Investigating the Performance of Reactive Libraries in a Quarkus Micro-Service</h1>
 <span class=post-meta>
 </span>
 </div>
@@ -100,22 +98,13 @@ Java User Group Ingolstadt e.V.
 <div class=row>
 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 <article role=main class=blog-post>
-<h3 id=julien-ponge-red-hat>Julien Ponge (Red Hat)</h3>
-<p>At the first Java-Meetup in 2021 we welcomed <strong><a href=https://julien.ponge.org>Julien Ponge</a></strong> who just published
-his latest writing <a href=https://www.manning.com/books/vertx-in-action>Vert.x in Action</a>.</p>
-<p>Alongside Vert.x, Julien is working on <a href=https://smallrye.io/smallrye-mutiny/>SmallRye Mutiny</a>, the brand new reactive library with first class support in <a href=https://quarkus.io/guides/getting-started-reactive>Quarkus</a> working there in perfect harmony with Vert.x.</p>
-<p>Julien worked and taught almost ten years at the <a href=https://www.insa-lyon.fr/en/>INSA in Lyon</a> and works since quite a while at <strong>Red Hat</strong> on reactive topics around Java.</p>
-<p>He stated out &ldquo;It will be fun!&rdquo; on our request to give us a talk about modern reactive developments with Java.
-<em>And it was!</em></p>
-<p>Thank you Julien for that very good and comprehensive flight through reactive systems and reactive programming with Java.</p>
-<p><strong>Julien provided us his slides, please find them <a href=https://github.com/jug-in/jug-in.talks/raw/master/3rd/ingolstadt-jug-jan2021.pdf>here as PDF</a> and don&rsquo;t miss his reactive service mesh example at <a href=https://github.com/jponge/ingolstadt-jug-january-2021>Github</a> as well as his Mutiny workshop code <a href=https://github.com/jponge/mutiny-workshop-examples>here</a></strong>.</p>
+<p><em>Denis Angeletta (RETIT)</em> besuchte uns mit folgendem spannenden Thema:</p>
+<p><em><strong>What’s the performance benefit of using reactive libraries in my Java applications? Can I go step-by-step, or do I need to go all-in and refactor the whole code to gain performance benefits of these reactive libraries? If you are dealing with similar questions, this talk is for you! In this talk, we will review different refactoring options for a Quarkus-based REST service using frameworks such as RESTEasy Reactive, Hibernate reactive and Mutiny from a performance perspective.</strong></em></p>
+<p>Besten Dank für die Ausführungen und viel Erfolg für die weitere reaktive Karriere.</p>
 </article>
 <ul class="pager blog-pager">
 <li class=previous>
-<a href=https://jug-in.bayern/post/2020-12-security/ data-toggle=tooltip data-placement=top title="Cyber Security für Entwickler">&larr; Vorheriger Beitrag</a>
-</li>
-<li class=next>
-<a href=https://jug-in.bayern/post/2021-02-hauptversammlung/ data-toggle=tooltip data-placement=top title=Mitglieder-Hauptversammlung>Nächster Beitrag &rarr;</a>
+<a href=https://jug-in.bayern/post/2021-11-jmc-jfr/ data-toggle=tooltip data-placement=top title="Java Mission Control & Flight Recorder; Kotlin spezial">&larr; Vorheriger Beitrag</a>
 </li>
 </ul>
 </div>
