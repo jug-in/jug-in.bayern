@@ -11,14 +11,12 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ---
 
-## Investigating the Performance of Reactive Libraries in a Quarkus Micro-Service
-### 14.12.2021 - 18:30 Uhr *CET*
+## Jahreshauptversammlung
+### 11.01.2022 - 18:30 Uhr *CET*
 
 ***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
 
-### *Denis Angeletta (RETIT)* besucht uns mit folgendem spannenden Thema:
-
-***What’s the performance benefit of using reactive libraries in my Java applications? Can I go step-by-step, or do I need to go all-in and refactor the whole code to gain performance benefits of these reactive libraries? If you are dealing with similar questions, this talk is for you! In this talk, we will review different refactoring options for a Quarkus-based REST service using frameworks such as RESTEasy Reactive, Hibernate reactive and Mutiny from a performance perspective.***
+### Agenda folgt.
 
 ---
 
