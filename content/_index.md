@@ -3,5 +3,7 @@
 Wir sind ein junger Verein, der es sich zum Ziel gesetzt hat, eine starke Entwickler-Community im Raum Ingolstadt aufzubauen.
 Als Java User Group liegt unser Fokus natürlich auf der Java-Plattform mit all ihren Facetten, jedoch befassen wir uns mit der gesamten Bandbreite der Software-Entwicklung und des Betriebs.
 
-# [Jahreshauptversammlung]({{< ref "/page/java-treff.md" >}})
-### am 11. Januar 2022
+### Java-Treff am 8. Februar 2022
+## [Exploit Log4Shell]({{< ref "/page/java-treff.md" >}})
+
+Spaß mit einer Sicherheitslücke. Kein Vortrag, sondern ein chaotischer Workshop zum mitmachen.

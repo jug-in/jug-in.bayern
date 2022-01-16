@@ -11,21 +11,14 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ---
 
-## Jahreshauptversammlung
-### 11.01.2022 - 18:30 Uhr *CET*
+## Exploit Log4Shell
+### 08.02.2022 - 18:30 Uhr *CET*
 
 ***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
 
-### Agenda:
+Am ersten regulären Java-Treff im Jahr 2022 wollen wir die Log4j2 Sicherheitslücke CVE-2021-44228 ergründen.
 
-1. Begrüßung
-2. Feststellung der Anwesenheit und Beschlussfähigkeit
-3. Jahresbericht des Vorstandes
-4. Kassenbericht
-5. Bericht der Kassenprüfer und Beschluss über Entlastung des Vorstandes
-6. Wahl des Kassenprüferausschusses für GF 2022
-7. Ausblick und Planung für 2022
-8. Sonstiges
+Dies wird kein Vortrag sein, sondern ein gemeinschaftliches experimentieren, ausprobieren und rumspielen. Wir werden verletzliche Anwendungen bauen und wieder zerstören, mit Log4j als primären Logger oder nur auf dem Klassenpfad. Ziel ist es, zu verstehen, welche Konstellationen angreifbar sind und wie der Angriff an sich aussieht, aber natürlich (wie immer) jede Menge Spaß zu haben.
 
 ---
 
