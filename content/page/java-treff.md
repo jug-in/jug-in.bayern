@@ -11,15 +11,24 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ---
 
-## Spaß mit Log4Shell (geplant)
+## Stammtisch
 ### 08.03.2022 - 18:30 Uhr *CET*
 
 ***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
 
-Im März wollen wir die Log4j2 Sicherheitslücke CVE-2021-44228 ergründen.
+Im März findet *nur* ein gemütliches Treffen mit guten Gesprächen statt.
 
-Dies wird kein Vortrag sein, sondern ein gemeinschaftliches experimentieren, ausprobieren und rumspielen. Wir werden verletzliche Anwendungen bauen und wieder zerstören, mit Log4j als primären Logger oder nur auf dem Klassenpfad. Ziel ist es, zu verstehen, welche Konstellationen angreifbar sind und wie der Angriff generell vonstatten geht, aber natürlich (wie immer) jede Menge Spaß zu haben.
+---
 
+## Cryostat
+### 12.04.2022 - 18:30 Uhr *CEST*
+
+***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
+
+Fasten your seatbelts, your JDK Flight-Recorder will launch to the clouds!
+[Andrew Azores](https://github.com/andrewazores) (Red Hat) comes by with [Cryostat](https://cryostat.io/), the Java Flight-Recorder Manager for Kubernetes and OpenShift.
+
+Details will follow, stay tuned.
 
 ---
 

@@ -4,6 +4,4 @@ Wir sind ein junger Verein, der es sich zum Ziel gesetzt hat, eine starke Entwic
 Als Java User Group liegt unser Fokus natürlich auf der Java-Plattform mit all ihren Facetten, jedoch befassen wir uns mit der gesamten Bandbreite der Software-Entwicklung und des Betriebs.
 
 ### Java-Treff am 8. März 2022
-## [Spaß mit Log4Shell]({{< ref "/page/java-treff.md" >}})
-
-Änderung des Programms noch möglich.
+## [Stammtisch]({{< ref "/page/java-treff.md" >}})
