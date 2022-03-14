@@ -11,16 +11,7 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ---
 
-## Stammtisch
-### 08.03.2022 - 18:30 Uhr *CET*
-
-***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
-
-Im März findet *nur* ein gemütliches Treffen mit guten Gesprächen statt.
-
----
-
-## Cryostat
+## Cryostat - Kubernetes native JDK Flight Recording
 ### 12.04.2022 - 18:30 Uhr *CEST*
 
 ***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
@@ -28,7 +19,19 @@ Im März findet *nur* ein gemütliches Treffen mit guten Gesprächen statt.
 Fasten your seatbelts, your JDK Flight-Recorder will launch to the clouds!
 [Andrew Azores](https://github.com/andrewazores) (Red Hat) comes by with [Cryostat](https://cryostat.io/), the Java Flight-Recorder Manager for Kubernetes and OpenShift.
 
-Details will follow, stay tuned.
+Cryostat is a Kubernetes and OpenShift operator, enabling and automating the monitoring of JVM applications with JDK Flight recorder by using Kubernetes mechanisms.
+For more details and to raise excitement for the session, you can have a look to [Andrews blog series about Cryostat](https://developers.redhat.com/articles/2021/10/18/announcing-cryostat-20-jdk-flight-recorder-containers).
+
+---
+
+## Cliff Notes: What Java Developers Need to Know About Graph Databases
+### 10.05.2022 - 18:30 Uhr *CEST*
+
+***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
+
+In May, [Jennifer Reif](https://jmhreif.com/) from [Neo4j](https://neo4j.com/) visits us with everything we need to know about Graphs and Neo4j:
+
+***Keeping up with database trends? Or learning for a project requirement? Or something else? In this session, we will hit the high points on graph databases and get Java developers what they need to get started quickly and successfully. From data model to applications, these are the Cliff Notes!***
 
 ---
 
