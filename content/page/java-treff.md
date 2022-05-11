@@ -11,14 +11,12 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ---
 
-## Cliff Notes: What Java Developers Need to Know About Graph Databases
-### 10.05.2022 - 18:30 Uhr *CEST*
+## Java-Treff im Juni
+### 14.06.2022 - 18:30 Uhr *CEST*
 
 ***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
 
-In May, [Jennifer Reif](https://jmhreif.com/) from [Neo4j](https://neo4j.com/) visits us with everything we need to know about Graphs and Neo4j:
-
-***Keeping up with database trends? Or learning for a project requirement? Or something else? In this session, we will hit the high points on graph databases and get Java developers what they need to get started quickly and successfully. From data model to applications, these are the Cliff Notes!***
+Programm steht noch nicht fest.
 
 ---
 
