@@ -11,8 +11,8 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ---
 
-## Java-Treff im Juni
-### 14.06.2022 - 18:30 Uhr *CEST*
+## Java-Treff im Juli
+### 12.07.2022 - 18:30 Uhr *CEST*
 
 ***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
 
