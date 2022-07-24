@@ -11,12 +11,19 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ---
 
-## Java-Treff im Juli
-### 12.07.2022 - 18:30 Uhr *CEST*
+## Cloud Cost Monitor  - Ein FinOps-Tool stellt sich vor
+### 09.08.2022 - 18:30 Uhr *CEST*
 
 ***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
 
-Programm steht noch nicht fest.
+Verena Barth, David Dasenbrook und Marius Stein von der viadee Unternehmensberatung werden in dieser Session ein Tool zum Monitoring von Cloud-Kosten vorstellen. Hierbei werden 3 unterschiedliche Aspekte beleuchtet:
+
+1. Setting the Scene: Warum sollten wir uns mit Kosten in der Cloud-Welt beschäftigen und was ist eigentlich FinOps?
+2. The Main Act: Was kann unser Cloud Cost Monitor und wie sieht unsere Vision aus?
+3. Behind the Scenes: Wie funktioniert die Technik hinter dem Cloud-Cost-Monitor eigentlich? In diesem Technical Deep-Dive stellen wir vor, wie das Tool mithilfe von Pulumi in die AWS-Cloud deployed wird.
+
+
+Der Cloud Cost Monitor ist ein junges Tool, welches von der viadee Unternehmensberatung entwickelt wird und helfen soll, Kostentransparenz in Cloud-Projekten zu schaffen. Euch erwartet keine langweilige Produktvorstellung: Unser Ziel ist offen mit euch über eure Erfahrung in Bezug auf Cloud-Kosten zu diskutieren, dies hilft uns den Cost-Monitor zu einem Tool zu entwickeln, welches echte Probleme löst. Im Gegenzug bieten wir einen spannenden Einblick in die Technik eines modernen Cloud-Native Produktes und einen offenen Erfahrungsaustausch über FinOps. Wir freuen uns auf euch!
 
 ---
 
