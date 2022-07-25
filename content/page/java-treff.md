@@ -12,7 +12,9 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 ---
 
 ## Cloud Cost Monitor  - Ein FinOps-Tool stellt sich vor
-### 09.08.2022 - 18:30 Uhr *CEST*
+### 08.08.2022 - 18:30 Uhr *CEST*
+
+***Achtung***: Kleine Abweichung vom Regelzyklus: Im August treffen wir uns einen Tag früher, am Montag.
 
 ***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
 
