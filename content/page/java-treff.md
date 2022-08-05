@@ -27,6 +27,16 @@ Verena Barth, David Dasenbrook und Marius Stein von der viadee Unternehmensberat
 
 Der Cloud Cost Monitor ist ein junges Tool, welches von der viadee Unternehmensberatung entwickelt wird und helfen soll, Kostentransparenz in Cloud-Projekten zu schaffen. Euch erwartet keine langweilige Produktvorstellung: Unser Ziel ist offen mit euch über eure Erfahrung in Bezug auf Cloud-Kosten zu diskutieren, dies hilft uns den Cost-Monitor zu einem Tool zu entwickeln, welches echte Probleme löst. Im Gegenzug bieten wir einen spannenden Einblick in die Technik eines modernen Cloud-Native Produktes und einen offenen Erfahrungsaustausch über FinOps. Wir freuen uns auf euch!
 
+## Apache Pinot  - Realtime Analytics with Alexander Pucher
+### 13.09.2022 - 18:30 Uhr *CEST*
+
+***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
+
+[Alexander Pucher](https://alexpucher.com/)s profession is [Apache Pinot](https://pinot.apache.org/) which is a distributed datastore for realtime analytics to be used in operational processes.
+
+Alex will introduce Apache Pinot to us and discuss use-cases and solutions with us.
+Beside the getting started with Pinot, we will have the chance to ask Alex literally everything about it.
+
 ---
 
 *Ihr wollt uns mit einem Vortrag bereichern, oder frei über ein Thema diskutieren?
