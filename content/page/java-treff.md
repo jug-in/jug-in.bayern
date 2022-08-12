@@ -11,31 +11,26 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ---
 
-## Cloud Cost Monitor  - Ein FinOps-Tool stellt sich vor
-### 08.08.2022 - 18:30 Uhr *CEST*
-
-***Achtung***: Kleine Abweichung vom Regelzyklus: Im August treffen wir uns einen Tag früher, am Montag.
-
-***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
-
-Verena Barth, David Dasenbrook und Marius Stein von der viadee Unternehmensberatung werden in dieser Session ein Tool zum Monitoring von Cloud-Kosten vorstellen. Hierbei werden 3 unterschiedliche Aspekte beleuchtet:
-
-1. Setting the Scene: Warum sollten wir uns mit Kosten in der Cloud-Welt beschäftigen und was ist eigentlich FinOps?
-2. The Main Act: Was kann unser Cloud Cost Monitor und wie sieht unsere Vision aus?
-3. Behind the Scenes: Wie funktioniert die Technik hinter dem Cloud-Cost-Monitor eigentlich? In diesem Technical Deep-Dive stellen wir vor, wie das Tool mithilfe von Pulumi in die AWS-Cloud deployed wird.
-
-
-Der Cloud Cost Monitor ist ein junges Tool, welches von der viadee Unternehmensberatung entwickelt wird und helfen soll, Kostentransparenz in Cloud-Projekten zu schaffen. Euch erwartet keine langweilige Produktvorstellung: Unser Ziel ist offen mit euch über eure Erfahrung in Bezug auf Cloud-Kosten zu diskutieren, dies hilft uns den Cost-Monitor zu einem Tool zu entwickeln, welches echte Probleme löst. Im Gegenzug bieten wir einen spannenden Einblick in die Technik eines modernen Cloud-Native Produktes und einen offenen Erfahrungsaustausch über FinOps. Wir freuen uns auf euch!
-
 ## Apache Pinot  - Realtime Analytics with Alexander Pucher
 ### 13.09.2022 - 18:30 Uhr *CEST*
 
 ***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
 
-[Alexander Pucher](https://alexpucher.com/)s profession is [Apache Pinot](https://pinot.apache.org/) which is a distributed datastore for realtime analytics to be used in operational processes.
+[Apache Pinot](https://pinot.apache.org/) enables user-facing analytics at scale. Pinot is a distributed database that reliably queries large datasets in milliseconds even while ingesting a firehose of realtime events. You typically find Pinot under hood of interactive apps & dashboards, anomaly detection use-cases, and company-internal data lakes.
 
-Alex will introduce Apache Pinot to us and discuss use-cases and solutions with us.
-Beside the getting started with Pinot, we will have the chance to ask Alex literally everything about it.
+[Alexander Pucher](https://www.linkedin.com/in/alexpucher/) will introduce Apache Pinot and discuss common use-cases and solutions with us. Besides the getting started with Pinot, we will have the chance to ask Alex literally everything about it.
+
+If you’re looking of a quick primer, here’s a short [Video Intro to Apache Pinot](https://youtu.be/_lqdfq2c9cQ) by our very own Tim Berglund @ [StarTree.ai](https://www.startree.ai/)
+
+See you there!
+
+---
+
+## Kotlin Multiplatform mit Sebastian Sellmair (JetBrains)
+### 08.11.2022 - 18:30 Uhr *CEST*
+
+Sebastian Sellmair von JetBrains wird uns eine Einführung in Kotlin Multiplatform geben.
+Weitere Details folgen.
 
 ---
 
