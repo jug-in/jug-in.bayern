@@ -11,18 +11,15 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ---
 
-## Apache Pinot  - Realtime Analytics with Alexander Pucher
-### 13.09.2022 - 18:30 Uhr *CEST*
+## Analytical data API architecture using PostgreSQL magic
+### 11.10.2022 - 18:30 Uhr *CEST*
 
 ***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
 
-[Apache Pinot](https://pinot.apache.org/) enables user-facing analytics at scale. Pinot is a distributed database that reliably queries large datasets in milliseconds even while ingesting a firehose of realtime events. You typically find Pinot under hood of interactive apps & dashboards, anomaly detection use-cases, and company-internal data lakes.
+Thomas Wolf wird uns auf die dunkle (Anwendungs-)Seite der PostgreSQL Datenbank führen.
 
-[Alexander Pucher](https://www.linkedin.com/in/alexpucher/) will introduce Apache Pinot and discuss common use-cases and solutions with us. Besides the getting started with Pinot, we will have the chance to ask Alex literally everything about it.
+_Details folgen._
 
-If you’re looking of a quick primer, here’s a short [Video Intro to Apache Pinot](https://youtu.be/_lqdfq2c9cQ) by our very own Tim Berglund @ [StarTree.ai](https://www.startree.ai/)
-
-See you there!
 
 ---
 
