@@ -16,10 +16,10 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
 
-Thomas Wolf wird uns auf die dunkle (Anwendungs-)Seite der PostgreSQL Datenbank führen.
+Analytisch aufbereitete Daten als transaktionsfähige API zur Verfügung zu stellen kann eine Herausforderung darstellen.
+Besonders große, sich regelmäßig ändernde Datenmengen für eine echtzeitfähige Abfrage aktuell zu halten, bedarf einiger Tricks.
 
-_Details folgen._
-
+**Thomas Wolf** _(MediaMarktSaturn Technology)_ erläutert uns, wie sein Team dies auf der Google Cloud und mit ganz viel PostgreSQL-Magie bewerkstelligt, die Konzepte sind jedoch auf andere Plattformen übertragbar.
 
 ---
 

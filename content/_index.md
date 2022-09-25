@@ -6,4 +6,4 @@ Als Java User Group liegt unser Fokus natürlich auf der Java-Plattform mit all 
 ### Dienstag, 11.10.2022
 ## [Analytical data API architecture using PostgreSQL magic]({{< ref "/page/java-treff.md" >}})
 
-Special Guest: **Thomas Wolf**; _Details folgen._
+**Thomas Wolf** _(MediaMarktSaturn Technology)_ wird uns auf die dunkle (Anwendungs-)Seite der PostgreSQL Datenbank führen.
