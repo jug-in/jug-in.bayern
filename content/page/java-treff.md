@@ -11,23 +11,13 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ---
 
-## Analytical data API architecture using PostgreSQL magic
-### 11.10.2022 - 18:30 Uhr *CEST*
+## Kotlin Multiplatform mit Sebastian Sellmair (JetBrains)
+### 08.11.2022 - 18:30 Uhr *CET*
 
 ***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
 
-Analytisch aufbereitete Daten als transaktionsfähige API zur Verfügung zu stellen kann eine Herausforderung darstellen.
-Besonders große, sich regelmäßig ändernde Datenmengen für eine echtzeitfähige Abfrage aktuell zu halten, bedarf einiger Tricks.
-
-**Thomas Wolf** _(MediaMarktSaturn Technology)_ erläutert uns, wie sein Team dies auf der Google Cloud und mit ganz viel PostgreSQL-Magie bewerkstelligt, die Konzepte sind jedoch auf andere Plattformen übertragbar.
-
----
-
-## Kotlin Multiplatform mit Sebastian Sellmair (JetBrains)
-### 08.11.2022 - 18:30 Uhr *CEST*
-
-Sebastian Sellmair von JetBrains wird uns eine Einführung in Kotlin Multiplatform geben.
-Weitere Details folgen.
+**Sebastian Sellmair** von JetBrains wird mit uns über Kotlin Multiplatform sprechen.
+Neben einer generellen Einführung wird uns Sebastian auch ein wenig in die Interna von Kotlin Multiplatform einweihen und uns Zukunftsaussichten präsentieren.
 
 ---
 
