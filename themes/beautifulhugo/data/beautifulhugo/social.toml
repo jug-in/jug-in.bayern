@@ -83,6 +83,12 @@ title = "Instagram"
 icon = "fab fa-instagram"
 
 [[social_icons]]
+id = "mastodon"
+url = "https://sueden.social/@%s"
+title = "Mastodon"
+icon = "fab fa-mastodon"
+
+[[social_icons]]
 id = "meetup"
 url = "https://www.meetup.com/%s"
 title = "Meetup"

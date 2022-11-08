@@ -31,6 +31,7 @@ pygmentCodeFences = true
   name = "jug in - Java User Group Ingolstadt e.V."
   email = "info@jug-in.bayern"
   twitter = "jug_ingolstadt"
+  mastodon = "jug_ingolstadt"
   meetup = "jug-in"
   github = "jug-in"
   linkedin = "8766833"
