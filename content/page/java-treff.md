@@ -11,13 +11,28 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ---
 
-## Kotlin Multiplatform mit Sebastian Sellmair (JetBrains)
-### 08.11.2022 - 18:30 Uhr *CET*
+## Java-Treff im Dezember
+### 13.12.2022 - 18:30 Uhr *CET*
 
-***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
+Wir wollen uns in weihnachtlicher Atmosphäre treffen.
 
-**Sebastian Sellmair** von JetBrains wird mit uns über Kotlin Multiplatform sprechen.
-Neben einer generellen Einführung wird uns Sebastian auch ein wenig in die Interna von Kotlin Multiplatform einweihen und uns Zukunftsaussichten präsentieren.
+Details folgen.
+
+---
+
+## Java-Treff im Januar
+### 10.01.2023 - 18:30 Uhr *CET*
+
+Jochen hat uns ein tolles Thema versprochen, lassen wir uns überraschen.
+
+---
+
+## Java-Treff im Februar
+### 14.02.2023 - 18:30 Uhr *CET*
+
+Mitglieder Hauptversammlung.
+
+Agenda folgt.
 
 ---
 
