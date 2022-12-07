@@ -5,5 +5,3 @@ Als Java User Group liegt unser Fokus natürlich auf der Java-Plattform mit all 
 
 ### Dienstag, 13.12.2022
 ## [Weihnachtsmarkt]({{< ref "/page/java-treff.md" >}})
-
-_Details folgen_

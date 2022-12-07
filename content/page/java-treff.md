@@ -14,9 +14,9 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 ## Java-Treff im Dezember
 ### 13.12.2022 - 18:30 Uhr *CET*
 
-Wir wollen uns in weihnachtlicher Atmosphäre treffen.
-
-Details folgen.
+Wir treffen uns um Punkt 18:30 Uhr beim Ingolstädter Weihnachtsmarkt.
+Treffpunkt bei [48.763165, 11.426764](https://goo.gl/maps/iW6RScAuLXvnzrHw6).
+Wer möchte, kann sich als Erkennungsmerkmal eine original Java Kaffee-Bean ans Revers stecken.
 
 ---
 
