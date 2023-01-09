@@ -9,3 +9,7 @@ Als Java User Group liegt unser Fokus natürlich auf der Java-Plattform mit all 
 ![](../../_img/electric-jochen.png)
 
 [Jochen Bürkle](https://www.linkedin.com/in/jochen-b%C3%BCrkle-ab694720/) berichtet uns von seinem Projekt, bei dem er kostengünstig detaillierte Daten zum Stromverbrauch und Erzeugung durch Solar-Balkonkraftwerke mittels IoT-Devices ausliest, in der Cloud aufbereitet  und darstellt.
+
+### Dienstag, 14.02.2023
+
+## Mitglieder Hauptversammlung mit Neuwahlen
