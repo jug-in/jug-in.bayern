@@ -18,6 +18,8 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 [Jochen Bürkle](https://www.linkedin.com/in/jochen-b%C3%BCrkle-ab694720/) berichtet uns von seinem Projekt, bei dem er kostengünstig detaillierte Daten zum Stromverbrauch und Erzeugung durch Solar-Balkonkraftwerke mittels IoT-Devices ausliest, in der Cloud aufbereitet  und darstellt.
 
+![](../../_img/electric-jochen.png)
+
 ---
 
 ## Java-Treff im Februar
