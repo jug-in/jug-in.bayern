@@ -11,17 +11,6 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ---
 
-## Energiewende unter Kontrolle mit IoT im eigenen Cloud-Projekt
-### 10.01.2023 - 18:30 Uhr *CET*
-
-***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
-
-[Jochen Bürkle](https://www.linkedin.com/in/jochen-b%C3%BCrkle-ab694720/) berichtet uns von seinem Projekt, bei dem er kostengünstig detaillierte Daten zum Stromverbrauch und Erzeugung durch Solar-Balkonkraftwerke mittels IoT-Devices ausliest, in der Cloud aufbereitet  und darstellt.
-
-![](../../_img/electric-jochen.png)
-
----
-
 ## Mitglieder Hauptversammlung
 ### 14.02.2023 - 18:30 Uhr *CET*
 
