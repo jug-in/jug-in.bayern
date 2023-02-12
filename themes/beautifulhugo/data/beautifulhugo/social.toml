@@ -84,7 +84,7 @@ icon = "fab fa-instagram"
 
 [[social_icons]]
 id = "mastodon"
-url = "https://sueden.social/@%s"
+url = "https://ijug.social/@%s"
 title = "Mastodon"
 icon = "fab fa-mastodon"
 
