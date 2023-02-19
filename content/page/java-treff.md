@@ -11,25 +11,12 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ---
 
-## Mitglieder Hauptversammlung
-### 14.02.2023 - 18:30 Uhr *CET*
+## Zero Trust mit **Kevin Delicam**
+### 13.03.2023 - 18:30 Uhr *CET*
 
 ***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
 
-**Agenda**
-
-1. Begrüßung
-1. Feststellung der Anwesenheit und Beschlussfähigkeit
-1. Jahresbericht des Vorstandes
-1. Kassenbericht
-1. Bericht der Kassenprüfer und Beschluss über Entlastung des Vorstandes
-1. Bildung des Wahlausschusses für Neuwahlen des Vorstandes
-1. Neuwahlen der Vorstandschaft
-1. Wahl des Kassenprüferausschusses für das Geschäftsjahr 2023
-1. Ausblick und Planung für 2023
-1. Sonstiges
-
-Weitere Punkte können jederzeit vor der Versammlung schriftlich und während der Versammlung mündlich eingereicht werden.
+[Kevin Delicam](https://www.linkedin.com/in/kevin-delicam-4ab18b129/) (AUDI AG) vertraut niemandem. Er wird uns erzählen, wie man mit solchen Vertrauensproblemen umgeht und damit sicher unterwegs ist.
 
 ---
 
