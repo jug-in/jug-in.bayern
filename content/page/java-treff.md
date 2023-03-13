@@ -12,7 +12,7 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 ---
 
 ## Zero Trust mit **Kevin Delicam**
-### 13.03.2023 - 18:30 Uhr *CET*
+### 14.03.2023 - 18:30 Uhr *CET*
 
 ***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
 
