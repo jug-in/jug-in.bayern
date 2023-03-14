@@ -5,6 +5,6 @@ Als Java User Group liegt unser Fokus natürlich auf der Java-Plattform mit all 
 
 ### Dienstag, 14.03.2023
 
-## [Zero Trust]({{< ref "/page/java-treff.md" >}})
+## [Java 20]({{< ref "/page/java-treff.md" >}})
 
-[Kevin Delicam](https://www.linkedin.com/in/kevin-delicam-4ab18b129/) vertraut niemandem.
+🎊 Release-After-Party 🍻
