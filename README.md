@@ -5,7 +5,7 @@
 The public site of **Java User Group Ingolstadt e.V.** powered by Hugo and GitHub Pages.<br/>
 Go to the [deployed website](https://jug-in.bayern).
 
-## General informations
+## General information
 
-This site use the [Beautiful Hugo](https://github.com/halogenica/beautifulhugo.git) theme created by [halogenica](https://github.com/halogenica).
+This site uses the [Beautiful Hugo](https://github.com/halogenica/beautifulhugo.git) theme created by [halogenica](https://github.com/halogenica).
 
