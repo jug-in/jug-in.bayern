@@ -11,14 +11,12 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ---
 
-## Java 20 After-Release-Party
-### 11.04.2023 - 18:30 Uhr *CEST*
+## OWASP Juice-Shop
+### 09.05.2023 - 18:30 Uhr *CEST*
 
 ***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
 
-Java 20 wird/wurde Ende März veröffentlicht.
-Wir schauen uns gemeinsam die Neuerung an und probieren sie auch gleich aus.
-Keine Angst, das wird keine schnöde Auflistung von JEPs und JSRs sondern erstklassige Detektivarbeit 😉.
+In Vorbereitung auf die diensjährige CloudLand wollen wir einen (Amateur)-Blick in den OWASP Juice-Shop werfen.
 
 ---
 
