@@ -11,12 +11,10 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ---
 
-## OWASP Juice-Shop
-### 09.05.2023 - 18:30 Uhr *CEST*
+## Java-Treff
+### 13.06.2023 - 18:30 Uhr *CEST*
 
 ***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
-
-In Vorbereitung auf die diensjährige CloudLand wollen wir einen (Amateur)-Blick in den OWASP Juice-Shop werfen.
 
 ---
 
