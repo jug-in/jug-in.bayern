@@ -12,7 +12,7 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 ---
 
 ## Java-Treff
-### 13.06.2023 - 18:30 Uhr *CEST*
+### 11.07.2023 - 18:30 Uhr *CEST*
 
 ***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
 
