@@ -11,10 +11,11 @@ _Vorläufig treffen wir uns ausschließlich virtuell_
 
 ---
 
-## Java-Treff
-### 11.07.2023 - 18:30 Uhr *CEST*
+## Sommerfest
 
-***Location (virtual):*** [Google Meet](https://meet.google.com/get-jzpw-qxm)
+Datum wird unter den Mitgliedern entschieden und kommuniziert.
+
+Jetzt schnell Mitglied werden, und teilnehmen!
 
 ---
 
