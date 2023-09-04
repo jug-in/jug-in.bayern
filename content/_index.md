@@ -7,3 +7,10 @@ Als Java User Group liegt unser Fokus natürlich auf der Java-Plattform mit all 
 
 ## [The _Robusta_ Monitoring Platform]({{< ref "/page/java-treff.md" >}})
 #### with _Natan Yellin_
+
+---
+
+### 14. November 2023:
+
+## [Menschen befähigen - wie finden Quereinsteiger den Weg in ihr erstes Projekt?]({{< ref "/page/java-treff.md" >}})
+#### mit _Andreas Monschau_
