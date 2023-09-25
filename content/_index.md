@@ -13,3 +13,12 @@ Als Java User Group liegt unser Fokus natürlich auf der Java-Plattform mit all 
 
 ## [Menschen befähigen - wie finden Quereinsteiger den Weg in ihr erstes Projekt?]({{< ref "/page/java-treff.md" >}})
 #### mit _Andreas Monschau_
+
+---
+
+### 5. Dezember 2023:
+
+## [Grafana]({{< ref "/page/java-treff.md" >}})
+#### mit _Sebastian Schubert_
+
+Details folgen...

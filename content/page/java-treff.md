@@ -24,5 +24,14 @@ Am Ende des Vortrags habt ihr einen groben Plan, wie auch ihr Menschen entwickel
 
 ---
 
+## **Sebastian Schubert**: Grafana
+### 14.11.2023 - 18:30 Uhr *CET*
+
+***Location:*** Hybrid geplant.
+
+Grafana Labs besucht uns, Details werden noch abgestimmt.
+
+---
+
 *Ihr wollt uns mit einem Vortrag bereichern, oder frei über ein Thema diskutieren?
 Meldet Euch einfach per [Mail](mailto:info@jug-in.bayern).*
