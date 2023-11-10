@@ -3,11 +3,6 @@
 Wir sind ein junger Verein, der es sich zum Ziel gesetzt hat, eine starke Entwickler-Community im Raum Ingolstadt aufzubauen.
 Als Java User Group liegt unser Fokus natürlich auf der Java-Plattform mit all ihren Facetten, jedoch befassen wir uns mit der gesamten Bandbreite der Software-Entwicklung und des Betriebs.
 
-### 10. Oktober 2023:
-
-## [Java-Treff]({{< ref "/page/java-treff.md" >}})
-
----
 
 ### 14. November 2023:
 
@@ -18,7 +13,5 @@ Als Java User Group liegt unser Fokus natürlich auf der Java-Plattform mit all 
 
 ### 5. Dezember 2023:
 
-## [Grafana]({{< ref "/page/java-treff.md" >}})
+## [Grafanas OpenSource products]({{< ref "/page/java-treff.md" >}})
 #### mit _Sebastian Schubert_
-
-Details folgen...
