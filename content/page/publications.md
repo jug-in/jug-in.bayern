@@ -4,6 +4,7 @@ subtitle: Talks und Präsentationen
 comments: true
 ---
 
+* [Grafana: Grafanas Open Source products](https://github.com/jug-in/jug-in.talks/raw/master/3rd/JUG_Ingolstadt_-_Grafanas_Open_Source_Products.pdf)
 * [Going (almost) mouseless](https://jug-in.github.io/jug-in.talks/going.mouseless.html)
 * [Caching](https://jug-in.github.io/jug-in.talks/caching.html)
 * [java.time (JSR 310)](https://jug-in.github.io/jug-in.talks/java.time.html)
