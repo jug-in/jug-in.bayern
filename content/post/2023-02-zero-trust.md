@@ -1,5 +1,5 @@
 ---
-title: Energiewende unter Kontrolle mit IoT im eigenen Cloud-Projekt
+title: Zero Trust
 date: 2023-03-14
 ---
 
