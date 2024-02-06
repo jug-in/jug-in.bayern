@@ -5,6 +5,8 @@ Als Java User Group liegt unser Fokus natürlich auf der Java-Plattform mit all 
 
 ---
 
-### 16. Januar 2024:
+### 13. Februar 2024
 
-## [Mitgliederhauptversammlung]({{< ref "/page/java-treff.md" >}})
+#### Double-Feature
+## [Postgres HA mit Patroni & Teleport]({{< ref "/page/java-treff.md" >}})
+### Richard Steinbrück (Userlike)
