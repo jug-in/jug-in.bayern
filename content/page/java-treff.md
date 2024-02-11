@@ -11,8 +11,6 @@ Der Java-Treff ist unsere monatliche Veranstaltung mit Vorträgen, Austausch und
 ## Double-Feature: Postgres HA mit Patroni & Teleport mit Richard Steinbrück (Userlike)
 ### 13.02.2024 - 18:30 Uhr *CET*
 
-**Vor Ort:** tbd
-
 **Remote:** [GMeet](https://meet.google.com/get-jzpw-qxm)
 
 
