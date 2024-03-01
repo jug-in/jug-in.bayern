@@ -8,17 +8,16 @@ Der Java-Treff ist unsere monatliche Veranstaltung mit Vorträgen, Austausch und
 
 ---
 
-## Double-Feature: Postgres HA mit Patroni & Teleport mit Richard Steinbrück (Userlike)
-### 13.02.2024 - 18:30 Uhr *CET*
+## Grafische Prozessvisualisierung basierend auf den aus Grafana bekannten Monitoring-Mechanismen (Jochen Bürkle)
+### 12.03.2024 - 18:30 Uhr *CET*
 
 **Remote:** [GMeet](https://meet.google.com/get-jzpw-qxm)
 
+**Örtlichkeit**: tbd
 
-[Richard Steinbrück](https://github.com/steinbrueckri) gibt sich die Ehre und bringt uns gleich zwei Themen aus seiner Praxis mit:
+Ihr erinnert Euch an [Jochens Energiewende ](https://jug-in.bayern/post/2023-01-energiewende/)?
 
-**Postgres HA**: wie Sie mithilfe von Patroni robuste, hochverfügbare PostgreSQL-Cluster aufbauen können, mit automatischem Failover. Darüber hinaus erläutere ich die Integration von pgBackRest für effizientes Backup und eine zuverlässige Desaster-Recovery-Lösung, die Ihr Postgres-System absichert.
-
-**Teleport**: Implementierung von Teleport, um eine sichere Zugriffskontrolle für verteilte Infrastrukturen zu gewährleisten. Teleport ermöglicht nicht nur eine granulare Zugriffsverwaltung, sondern bietet auch Audit-Trail-Funktionen für umfassende Transparenz.
+Anhand seiner Energie-Infrastruktur wird uns [Jochen](https://www.linkedin.com/in/jochen-b%C3%BCrkle-ab694720/) das [Grafana Canvas Panel](https://grafana.com/docs/grafana/latest/panels-visualizations/visualizations/canvas/) näher bringen.
 
 ---
 

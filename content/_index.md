@@ -5,8 +5,7 @@ Als Java User Group liegt unser Fokus natürlich auf der Java-Plattform mit all 
 
 ---
 
-### 13. Februar 2024
+### 12. März 2024
 
-#### Double-Feature
-## [Postgres HA mit Patroni & Teleport]({{< ref "/page/java-treff.md" >}})
-### Richard Steinbrück (Userlike)
+## [Grafische Prozessvisualisierung basierend auf den aus Grafana bekannten Monitoring-Mechanismen]({{< ref "/page/java-treff.md" >}})
+### Jochen Bürkle
