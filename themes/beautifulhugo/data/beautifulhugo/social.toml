@@ -1,7 +1,7 @@
 [[social_icons]]
 id = "email"
 url = "mailto:%s"
-title = "Email me"
+title = "Email"
 icon = "fas fa-envelope"
 
 [[social_icons]]
@@ -87,6 +87,12 @@ id = "mastodon"
 url = "https://ijug.social/@%s"
 title = "Mastodon"
 icon = "fab fa-mastodon"
+
+[[social_icons]]
+id = "spreadshop"
+url = "https://%s.myspreadshop.de"
+title = "Merch-Shop"
+icon = "fas fa-tshirt"
 
 [[social_icons]]
 id = "meetup"

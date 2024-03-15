@@ -5,7 +5,5 @@ Als Java User Group liegt unser Fokus natürlich auf der Java-Plattform mit all 
 
 ---
 
-### 12. März 2024
-
-## [Grafische Prozessvisualisierung basierend auf den aus Grafana bekannten Monitoring-Mechanismen]({{< ref "/page/java-treff.md" >}})
-### Jochen Bürkle
+## nächster [Java-Treff]({{< ref "/page/java-treff.md" >}}):
+### 09. April 2024
