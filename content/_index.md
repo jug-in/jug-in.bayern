@@ -7,3 +7,13 @@ Als Java User Group liegt unser Fokus natürlich auf der Java-Plattform mit all 
 
 ## nächster [Java-Treff]({{< ref "/page/java-treff.md" >}}):
 ### 09. April 2024
+
+---
+
+## Highway 2 CloudLand Tourstopp Ingolstadt
+### 17. April 2024
+
+Der DOAG Tourbus kommt uns besuchen und bringt Softgetränke, Bier und Pizza mit.
+Es gibt einen kurzen AI Talk durch [Oliver Szymanski](https://www.doag.org/de/persondetails/11154/), seines Zeichens Begründer und Organsiator der KI Navigator Konferenz, und anschließend noch mehr Spaß im gemütlichen Fachsimpeln.
+
+Die Teilnahme ist wie immer kostenfrei, jedoch ist die Teilnahme begrenzt, weshalb ein (freies) [Ticket](https://meine.doag.org/shop/prd.1083.tourstopp-ingolstadt/) nötig ist.

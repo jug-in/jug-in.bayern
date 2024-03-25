@@ -15,6 +15,9 @@ Der Java-Treff ist unsere monatliche Veranstaltung mit Vorträgen, Austausch und
 
 **Örtlichkeit**: tbd
 
+Maria wird uns structured concurrency in Java näher bringen, und mit Kotlin Coroutines vergleichen.
+_Details folgen_
+
 ---
 
 *Ihr wollt uns mit einem Vortrag bereichern, oder frei über ein Thema diskutieren?
