@@ -8,6 +8,9 @@ Als Java User Group liegt unser Fokus natürlich auf der Java-Plattform mit all 
 ## nächster [Java-Treff]({{< ref "/page/java-treff.md" >}}):
 ### 09. April 2024
 
+# Structured Concurrency in Java
+## Maria Salcedo
+
 ---
 
 ## Highway 2 CloudLand Tourstopp Ingolstadt

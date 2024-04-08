@@ -13,10 +13,7 @@ Der Java-Treff ist unsere monatliche Veranstaltung mit Vorträgen, Austausch und
 
 **Remote:** [GMeet](https://meet.google.com/get-jzpw-qxm)
 
-**Örtlichkeit**: tbd
-
-Maria wird uns structured concurrency in Java näher bringen, und mit Kotlin Coroutines vergleichen.
-_Details folgen_
+[Maria](https://www.linkedin.com/in/maria-s-56138aa0/) wird uns structured concurrency in Java näher bringen, und mit Kotlin Coroutines vergleichen.
 
 ---
 
