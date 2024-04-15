@@ -9,11 +9,17 @@ Der Java-Treff ist unsere monatliche Veranstaltung mit Vorträgen, Austausch und
 ---
 
 ## Java-Treff
-### 09.04.2024 - 18:30 Uhr *CEST*
+### 09.05.2024 - 18:30 Uhr *CEST*
 
-**Remote:** [GMeet](https://meet.google.com/get-jzpw-qxm)
+**Location**: _tbd_
 
-[Maria](https://www.linkedin.com/in/maria-s-56138aa0/) wird uns structured concurrency in Java näher bringen, und mit Kotlin Coroutines vergleichen.
+Der [Java Community Process wird 25](https://jcp.org/en/press/news/JCP_25_Year_Anniversary).
+
+Wir haben ein JCP-Party-Kit erhalten, wollen ein bisschen feiern und den den JCP kennenlernen.
+
+Außerdem werden uns Bernd und Tung Ihre Eindrücke der JavaLand mitbringen.
+
+Und es gibt Sticker und Buttons 😉
 
 ---
 
