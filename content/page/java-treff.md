@@ -9,17 +9,19 @@ Der Java-Treff ist unsere monatliche Veranstaltung mit Vorträgen, Austausch und
 ---
 
 ## Java-Treff
-### 09.05.2024 - 18:30 Uhr *CEST*
+### 14.05.2024 - 17:00 Uhr *CEST*
 
-**Location**: _tbd_
+**Location**: MediaMarktSaturn Barista Bar, L-Gebäude, [Media-Saturn-Str. 1, Ingolstadt](https://maps.app.goo.gl/qqfXVPRZpNZvToDt7)
+**Remote**: [GMeet](https://meet.google.com/get-jzpw-qxm)
 
 Der [Java Community Process wird 25](https://jcp.org/en/press/news/JCP_25_Year_Anniversary).
-
-Wir haben ein JCP-Party-Kit erhalten, wollen ein bisschen feiern und den den JCP kennenlernen.
+Wir haben ein JCP-Party-Kit erhalten, wollen ein bisschen feiern und dabei auch den JCP kennenlernen.
 
 Außerdem werden uns Bernd und Tung Ihre Eindrücke der JavaLand mitbringen.
 
 Und es gibt Sticker und Buttons 😉
+
+Diesmal wieder hybrid, sofern die Technik mitspielt 😎
 
 ---
 
