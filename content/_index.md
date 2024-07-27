@@ -6,8 +6,6 @@ Als Java User Group liegt unser Fokus natürlich auf der Java-Plattform mit all 
 ---
 
 ## nächster [Java-Treff]({{< ref "/page/java-treff.md" >}}):
-### 14. Mai 2024
+### 13. August 2024
 
-# JCP 25-year Anniversary
-
-Wir feiern [25 Jahre Java Community Process](https://jcp.org/en/press/news/JCP_25_Year_Anniversary).
+Thema und Örtlichkeit noch offen. Ideen oder Wünsche? ➡️ [📧](mailto:info@jug-in.bayern)

@@ -18,6 +18,7 @@ comments: true
 * [JDK 15](https://jug-in.github.io/jug-in.talks/jdk15.html)
 * [JDK 16](https://jug-in.github.io/jug-in.talks/jdk16.html)
 * [Software-Esoterik-1](https://jug-in.github.io/jug-in.talks/software-esoterik-1.html)
-* [Energiewende unter Kontrolle mit IoT im eigenen Cloud-Projekt](https://github.com/jug-in/jug-in.talks/raw/master/3rd/Energiewende_IoT-v20210112.pdf)
+* [Energiewende unter Kontrolle mit IoT im eigenen Cloud-Projekt (2023)](https://github.com/jug-in/jug-in.talks/raw/master/3rd/Energiewende_IoT-v20210112.pdf)
+* [Unleash your Personal Energetic Transition (English and updated version, 2024)](https://github.com/jug-in/jug-in.talks/raw/master/3rd/JUGIN-PersonalEnergeticTransition.pdf)
 * [Red Hat: Kafka Special](http://www.jsch.cz/jugingolstadt)
 * [Red Hat: Modern Reactive Java](https://github.com/jug-in/jug-in.talks/raw/master/3rd/ingolstadt-jug-jan2021.pdf)
