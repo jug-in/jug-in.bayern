@@ -8,10 +8,13 @@ Der Java-Treff ist unsere monatliche Veranstaltung mit Vorträgen, Austausch und
 
 ---
 
-## Java-Treff
-### 13.08.2024 - 18:30 Uhr *CEST*
+## Biergarten-Treff
+### 24.08.2024 - vorrausichtlich 17:00 Uhr *CEST*
 
-Thema und Örtlichkeit noch offen. Ideen oder Wünsche? ➡️ [📧](mailto:info@jug-in.bayern)
+Wir treffen uns im Biergarten und genießen den Sommer.
+
+Ihr seid noch kein JUG Ingolstadt Mitglied und habt dennoch Lust zu kommen?
+Kein Problem, schreibt uns kurz, dann erfahrt Ihr den genauen Veranstaltungsort ➡️ [📧](mailto:florian.heubeck@jug-in.bayern)
 
 ---
 
