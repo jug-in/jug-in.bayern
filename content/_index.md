@@ -6,6 +6,5 @@ Als Java User Group liegt unser Fokus natürlich auf der Java-Plattform mit all 
 ---
 
 ## nächster [Java-Treff]({{< ref "/page/java-treff.md" >}}):
-### 24. August 2024
+### tbd
 
-Diesmal geht's ganz sommerlich in den Biergarten, jeder ist herzlich (in Be[gk]lei[dt]ung) willkommen, bitte meldet Euch nur kurz an und erfahrt den genauen Veranstaltungsort ➡️ [📧](mailto:florian.heubeck@jug-in.bayern)
