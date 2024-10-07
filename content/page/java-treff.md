@@ -11,7 +11,7 @@ Der Java-Treff ist unsere monatliche Veranstaltung mit Vorträgen, Austausch und
 ## Java-Treff
 ### 8.10.2024 - 18:30 Uhr *CEST* : Java 23 Release Party
 
-**Ort:** tbd
+**Ort:** [Wirtshaus am Auwaldsee](https://www.auwaldsee.restaurant/)
 
 Zum nächsten Java-Treff wird Java 23 veröffentlich worden sein.
 Wir schauen uns die Neuerungen und Änderungen an.
