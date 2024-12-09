@@ -6,7 +6,5 @@ Als Java User Group liegt unser Fokus natürlich auf der Java-Plattform mit all 
 ---
 
 ## nächster [Java-Treff]({{< ref "/page/java-treff.md" >}}):
-### 11.12.2024 - 18:30 Uhr *CET* : Weihnachtsmarktbesuch
-
-Ort wird noch verkündet.
+### 11.12.2024 - 18:30 Uhr *CET* : Weihnachtsmarktbesuch in Ingolstadt
 

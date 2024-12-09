@@ -11,7 +11,7 @@ Der Java-Treff ist unsere monatliche Veranstaltung mit Vorträgen, Austausch und
 ## Java-Treff
 ### 11.12.2024 - 18:30 Uhr *CET* : Weihnachtsmarktbesuch
 
-**Ort:** Wird noch kundgetan. Vorschläge gern gesehen
+**Ort:** Weihnachtsmarkt Ingolstadt, [Treffpunkt oberhalb an der Nord-Westlichen Ecke des Marktes](https://maps.app.goo.gl/twBhcmMmS4669PH3A)
 
 Jahresausklang in weihnachtlicher Atmosphäre und guter Gesellschaft.
 Diesmal am Mittwoch, Begleitungen und Familien gern gesehen.
