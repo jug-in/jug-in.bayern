@@ -20,7 +20,21 @@ Der Java-Treff ist unsere monatliche Veranstaltung mit Vorträgen, Austausch und
 
 **Ort:** tbd
 
-Agenda folgt.
+#### Agenda
+
+1. Begrüßung
+1. Feststellung der Anwesenheit und Beschlussfähigkeit
+1. Jahresbericht des Vorstandes
+1. Kassenbericht
+1. Bericht der Kassenprüfer und Beschluss über Entlastung des Vorstandes
+1. Quo Vadis, JUG Ingolstadt?
+1. Bildung des Wahlausschusses für Neuwahlen des Vorstandes
+1. Neuwahlen der Vorstandschaft für 2025/2026
+1. Wahl des Kassenprüferausschusses für das Geschäftsjahr 2025
+1. Sonstiges
+1. Gemütliches Beisammensein
+
+Wünsche und Anträge können bis zur Sitzung beim Vorstand eingereicht, oder in der Sitzung mündlich geäußert werden.
 
 ---
 
