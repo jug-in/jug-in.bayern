@@ -18,7 +18,7 @@ Der Java-Treff ist unsere monatliche Veranstaltung mit Vorträgen, Austausch und
 ## Mitgliederhauptversammlung
 ### 11.02.2025 - 18:30 Uhr *CET*
 
-**Ort:** tbd
+**Ort:** [Sportgaststätte SV Zuchering](https://sportgaststaette-zuchering.de/) - [Seeweg 17, 85051 Ingolstadt](https://maps.app.goo.gl/zZL6QYxUZE9FN19z6)
 
 #### Agenda
 
