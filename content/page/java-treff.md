@@ -8,13 +8,6 @@ Der Java-Treff ist unsere monatliche Veranstaltung mit Vorträgen, Austausch und
 
 ---
 
-## Java-Treff
-### 14.01.2025 - 18:30 Uhr *CET*
-
-**Ort und Thema:** tbd
-
----
-
 ## Mitgliederhauptversammlung
 ### 11.02.2025 - 18:30 Uhr *CET*
 

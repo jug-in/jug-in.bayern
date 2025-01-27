@@ -5,10 +5,5 @@ Als Java User Group liegt unser Fokus natürlich auf der Java-Plattform mit all 
 
 ---
 
-## nächster [Java-Treff]({{< ref "/page/java-treff.md" >}}):
-### 14.01.2025 - 18:30 Uhr *CET*
-
----
-
 ## [Mitgliederhauptversammlung 2025]({{< ref "/page/java-treff.md" >}}):
 ### 11.02.2025 - 18:30 Uhr *CET*
