@@ -20,7 +20,7 @@
 
 # 404 page
 - id: pageNotFound
-  translation: "Error 404: Out of coffee"
+  translation: "Fehler 404: Kaffee nicht gefunden"
 
 # Navigation
 - id: toggleNavigation
@@ -33,4 +33,3 @@
   translation: "Suche {{ .Site.Title }}"
 - id: gcseClose
   translation: "Schließen"
-
