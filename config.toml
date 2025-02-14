@@ -32,10 +32,8 @@ pygmentCodeFences = true
   email = "info@jug-in.bayern"
   mastodon = "ingolstadt"
   spreadshop = "jug-in"
-  meetup = "jug-in"
   github = "jug-in"
   linkedin = "8766833"
-  slack = "C01AM08L52P"
   ical = "https://calendar.google.com/calendar/embed?src=jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com&ctz=Europe%2FBerlin"
 
 [[menu.main]]
