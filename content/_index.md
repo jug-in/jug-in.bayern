@@ -16,8 +16,8 @@ haben wir eine Google-Gruppe eingerichtet: [JUG Ingolstadt | Ankündigungen](htt
 
 ## Nächster Java-Treff
 
-### 13.03.2025 - 18:30 Uhr *CET*
-### Ort: t.b.d
+### Donnerstag, 13.03.2025 - 18:30 Uhr *CET*
+### Ort: t.b.d.
 
 ---
 
