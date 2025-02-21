@@ -47,6 +47,18 @@ title = "LinkedIn"
 icon = "fab fa-linkedin"
 
 [[social_icons]]
+id = "maillist"
+url = "https://groups.google.com/g/%s"
+title = "Mailing List"
+icon = "fa fa-envelope-open-text"
+
+[[social_icons]]
+id = "whatsapp"
+url = "https://chat.whatsapp.com/%s"
+title = "WhatsApp Community"
+icon = "fab fa-whatsapp"
+
+[[social_icons]]
 id = "xing"
 url = "https://www.xing.com/communities/groups/%s"
 title = "Xing"
