@@ -4,7 +4,7 @@ subtitle: Jede 2. Woche im Monat, abwechselnd Dienstags oder Donnerstags
 comments: false
 ---
 
-Der Java-Treff ist unsere monatliche Veranstaltung mit Vorträgen, Austausch und Diskussion.
+Der Java-Treff ist unser monatlicher "Stammtisch" zu allen Themen und um Softwareentwicklung und -betrieb.
 
 ---
 
@@ -15,7 +15,26 @@ Der Java-Treff ist unsere monatliche Veranstaltung mit Vorträgen, Austausch und
 
 #### Agenda
 
-1. Gemütliches Beisammensein
+* Gemütliches Beisammensein bei guten Gesprächen rund um die IT
+
+---
+
+## Termine 2025:
+
+* 13. März 2025
+* 8. April 2025
+* 8. Mai 2025
+* 10. Juni 2025
+* 10. Juli 2025
+* 12. August 2025
+* 11. September 2025
+* 14. Oktober 2025
+* 13. November 2025
+* 9. Dezember 2025
+
+Ihr könnt auch unseren [Kalender](https://calendar.google.com/calendar/embed?src=jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com&ctz=Europe%2FBerlin) abonnieren, oder Euch auf die [Ankündigungs-Mailliste](https://groups.google.com/g/jug-ingolstadt) setzen, um stets informiert zu sein.
+
+Desweiteren haben wir eine [WhatsApp Community](https://chat.whatsapp.com/HtXKeAOStj0HaFInzJaSvb) für Umfragen zu Orten - aber natürlich kann jeder einfach zum genannten Termin erscheinen - auch ohne Anmeldung.
 
 ---
 

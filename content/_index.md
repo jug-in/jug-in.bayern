@@ -7,14 +7,14 @@ Als Java User Group liegt unser Fokus natürlich auf der Java-Plattform mit all 
 
 ## Aktuelles
 
-Wir haben uns auf Grund der hohen Kosten entschlossen, unsere Termine nicht mehr auf MeetUp zu veröffentlichen 
+Wir haben uns auf Grund der hohen Kosten entschlossen, unsere Termine nicht mehr auf MeetUp zu veröffentlichen
 und unsere MeetUp Gruppe nicht mehr weiter zu führen.<br/>
 Damit Ihr Euch weiterhin über unsere Termine informieren könnt,
 haben wir eine Google-Gruppe eingerichtet: [JUG Ingolstadt | Ankündigungen](https://groups.google.com/g/jug-ingolstadt)
 
 ---
 
-## Nächster Java-Treff
+## Nächster [Java-Treff]({{< ref "/page/java-treff.md" >}})
 
 ### Donnerstag, 13.03.2025 - 18:30 Uhr *CET*
 ### Ort: t.b.d.
