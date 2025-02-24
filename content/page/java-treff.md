@@ -8,10 +8,10 @@ Der Java-Treff ist unser monatlicher "Stammtisch" zu allen Themen und um Softwar
 
 ---
 
-## Gemütlicher Treff
+## Gemütlicher Java-Treff
 ### Donnerstag, 13.03.2025 - 18:30 Uhr *CET*
 
-**Ort:** t.b.d.
+**Ort:** [BOB'S](https://maps.app.goo.gl/qWyP4gMFVbZZXP95A), Münchener Str. 231, 85051 Ingolstadt
 
 #### Agenda
 
