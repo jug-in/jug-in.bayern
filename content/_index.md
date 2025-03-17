@@ -16,8 +16,8 @@ haben wir eine Google-Gruppe eingerichtet: [JUG Ingolstadt | Ankündigungen](htt
 
 ## Nächster [Java-Treff]({{< ref "/page/java-treff.md" >}})
 
-### Donnerstag, 13.03.2025 - 18:30 Uhr *CET*
-### Ort: [BOB'S Ingolstadt](https://maps.app.goo.gl/qWyP4gMFVbZZXP95A)
+### Dienstag, 08.04.2025 - 18:30 Uhr *CET*
+### Ort: folgt
 
 Gute Gespräche zu spannenden Themen in netter Gesellschaft.
 
