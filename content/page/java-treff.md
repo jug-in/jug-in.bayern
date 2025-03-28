@@ -11,7 +11,7 @@ Der Java-Treff ist unser monatlicher "Stammtisch" zu allen Themen und um Softwar
 ## Gemütlicher Java-Treff
 ### Dienstag, 08.04.2025 - 18:30 Uhr *CET*
 
-**Ort:** tbd
+**Ort:** [Granada Ingolstadt](https://www.granada-ingolstadt.de/), [Dollstr. 9, 85049 Ingolstadt](https://maps.app.goo.gl/LU9t2H6sKEqSdjeG8)
 
 #### Agenda
 
