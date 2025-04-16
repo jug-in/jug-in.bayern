@@ -9,9 +9,9 @@ Der Java-Treff ist unser monatlicher "Stammtisch" zu allen Themen und um Softwar
 ---
 
 ## Gemütlicher Java-Treff
-### Dienstag, 08.04.2025 - 18:30 Uhr *CET*
+### Dienstag, 08.05.2025 - 18:30 Uhr *CET*
 
-**Ort:** [Granada Ingolstadt](https://www.granada-ingolstadt.de/), [Dollstr. 9, 85049 Ingolstadt](https://maps.app.goo.gl/LU9t2H6sKEqSdjeG8)
+**Ort:** [El Nopal Ingolstadt](https://el-nopal-ingolstadt.eatbu.com/), [Kanalstraße 1A, 85049 Ingolstadt](https://maps.app.goo.gl/krYZPvBkCNzUbqpT9)
 
 #### Agenda
 
@@ -22,8 +22,8 @@ Der Java-Treff ist unser monatlicher "Stammtisch" zu allen Themen und um Softwar
 ## Termine 2025:
 
 * ~~Donnerstag, 13. März 2025~~
-* **Dienstag, 8. April 2025**
-* Donnerstag, 8. Mai 2025
+* ~~Dienstag, 8. April 2025~~
+* **Donnerstag, 8. Mai 2025**
 * Dienstag, 10. Juni 2025
 * Donnerstag, 10. Juli 2025
 * Dienstag, 12. August 2025
