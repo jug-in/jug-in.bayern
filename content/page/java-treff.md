@@ -9,7 +9,7 @@ Der Java-Treff ist unser monatlicher "Stammtisch" zu allen Themen und um Softwar
 ---
 
 ## Gemütlicher Java-Treff
-### Dienstag, 08.05.2025 - 18:30 Uhr *CET*
+### Donnerstag, 08.05.2025 - 18:30 Uhr *CET*
 
 **Ort:** [El Nopal Ingolstadt](https://el-nopal-ingolstadt.eatbu.com/), [Kanalstraße 1A, 85049 Ingolstadt](https://maps.app.goo.gl/krYZPvBkCNzUbqpT9)
 
