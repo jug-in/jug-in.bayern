@@ -16,8 +16,8 @@ haben wir eine Google-Gruppe eingerichtet: [JUG Ingolstadt | Ankündigungen](htt
 
 ## Nächster [Java-Treff]({{< ref "/page/java-treff.md" >}})
 
-### Donnerstag, 08.05.2025 - 18:30 Uhr *CET*
-### Ort: [El Nopal Ingolstadt](https://el-nopal-ingolstadt.eatbu.com/), [Kanalstraße 1A, 85049 Ingolstadt](https://maps.app.goo.gl/krYZPvBkCNzUbqpT9)
+### Dienstag, 10.06.2025 - 18:30 Uhr *CET*
+### Ort: folgt
 
 Gute Gespräche zu spannenden Themen in netter Gesellschaft.
 
