@@ -17,7 +17,7 @@ haben wir eine Google-Gruppe eingerichtet: [JUG Ingolstadt | Ankündigungen](htt
 ## Nächster [Java-Treff]({{< ref "/page/java-treff.md" >}})
 
 ### Dienstag, 10.06.2025 - 18:30 Uhr *CET*
-### Ort: folgt
+### Ort: [das "Mo" - Neue Galerie](https://dasmo.chayns.site/) - [Bergbräustraße 7, 85049 Ingolstadt](https://maps.app.goo.gl/Qb5WCigoKM2Wz2NV8)
 
 Gute Gespräche zu spannenden Themen in netter Gesellschaft.
 

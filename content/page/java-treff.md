@@ -11,7 +11,8 @@ Der Java-Treff ist unser monatlicher "Stammtisch" zu allen Themen und um Softwar
 ## Gemütlicher Java-Treff
 ### Dienstag, 10.06.2025 - 18:30 Uhr *CET*
 
-**Ort:** tbd
+**Ort:** [das "Mo" - Neue Galerie](https://dasmo.chayns.site/) - [Bergbräustraße 7, 85049 Ingolstadt](https://maps.app.goo.gl/Qb5WCigoKM2Wz2NV8)
+
 
 #### Agenda
 
