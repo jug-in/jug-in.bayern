@@ -16,16 +16,10 @@ haben wir eine Google-Gruppe eingerichtet: [JUG Ingolstadt | Ankündigungen](htt
 
 ## Nächster [Java-Treff]({{< ref "/page/java-treff.md" >}})
 
-### Dienstag, 12.08.2025 - 18:30 Uhr *CET*
-### Ort: [Biergarten Schutterhof](https://schutterhof-in.de), [Friedhofstraße 1a, 85049 Ingolstadt](https://maps.app.goo.gl/MvByYhC2aHUSvQeEA)
+### Dienstag, 14.10.2025 - 18:30 Uhr *CEST*
+### Ort: [Hamburgerei](https://hamburgerei.de/), [Theresienstraße 11, 85049 Ingolstadt](https://maps.app.goo.gl/yi6RwTdVePyE9Eds6)
 
 Gute Gespräche zu spannenden Themen in netter Gesellschaft.
-
-
-## Übernächster [Java-Treff]({{< ref "/page/java-treff.md" >}})
-
-### Donnerstag, 11.09.2025 - 18:30 Uhr *CET*
-### Ort: [Gasthaus Almschänke](https://www.almschaenke.de/), [Weicheringer Str. 146, 85051 Ingolstadt](https://maps.app.goo.gl/aWfzNZZjnb6xWQSBA)
 
 ---
 
