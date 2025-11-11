@@ -9,13 +9,11 @@ Der Java-Treff ist unser monatlicher "Stammtisch" zu allen Themen und um Softwar
 ---
 
 ## Gemütlicher Java-Treff
-### Dienstag, 14.10.2025 - 18:30 Uhr *CET*
 
-**Ort:** [Hamburgerei](https://hamburgerei.de/), [Theresienstraße 11, 85049 Ingolstadt](https://maps.app.goo.gl/yi6RwTdVePyE9Eds6)
+### Donnerstag, 13.11.2025 - 18:30 Uhr *CET*
+### Ort: [FLAIR Restaurant & Bar](https://flair-ingolstadt.de/), [Donaustraße 12, 85049 Ingolstadt](https://maps.app.goo.gl/ag9XvzndDcyX8JQ57)
 
-#### Agenda
-
-* Gemütliches Beisammensein bei guten Gesprächen rund um die IT
+Gute Gespräche zu spannenden Themen in netter Gesellschaft.
 
 ---
 
@@ -28,8 +26,8 @@ Der Java-Treff ist unser monatlicher "Stammtisch" zu allen Themen und um Softwar
 * ~~Donnerstag, 10. Juli 2025~~ (entfallen)
 * ~~Dienstag, 12. August 2025~~ (Biergarten Schutterhof)
 * ~~Donnerstag, 11. September 2025~~ (Almschänke Zuchering)
-* **Dienstag, 14. Oktober 2025**
-* Donnerstag, 13. November 2025
+* ~~Dienstag, 14. Oktober 2025~~ (Hamburgerei)
+* **Donnerstag, 13. November 2025** (FLAIR)
 * Dienstag, 9. Dezember 2025
 
 Ihr könnt auch unseren [Kalender](https://calendar.google.com/calendar/embed?src=jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com&ctz=Europe%2FBerlin) abonnieren, oder Euch auf die [Ankündigungs-Mailliste](https://groups.google.com/g/jug-ingolstadt) setzen, um stets informiert zu sein.
