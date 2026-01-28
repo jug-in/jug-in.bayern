@@ -17,7 +17,7 @@ Gute Gespräche zu spannenden Themen in netter Gesellschaft.
 
 ---
 
-## Termine 2025:
+## Termine 2026:
 
 * **Dienstag, 10. Februar 2026**
 * Donnerstag, 13. März 2026
