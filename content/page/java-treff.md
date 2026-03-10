@@ -11,7 +11,7 @@ Der Java-Treff ist unser monatlicher "Stammtisch" zu allen Themen und um Softwar
 ## Mitgliederhauptversammlung
 
 ### Donnerstag, 12.03.2026 - 18:30 Uhr *CET*
-### Ort (voraussichtlich): [Senners Alm](https://sporttreff-in.de), [Unterlettenweg 1, 85051 Ingolstadt](https://maps.app.goo.gl/2GvQSsEyJNsNzKc66)
+### Ort: [Senners Alm](https://sporttreff-in.de), [Unterlettenweg 1, 85051 Ingolstadt](https://maps.app.goo.gl/2GvQSsEyJNsNzKc66)
 
 Agenda:
 
