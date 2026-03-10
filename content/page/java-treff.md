@@ -8,15 +8,6 @@ Der Java-Treff ist unser monatlicher "Stammtisch" zu allen Themen und um Softwar
 
 ---
 
-## Gemütlicher Java-Treff
-
-### Dienstag, 10.02.2026 - 18:30 Uhr *CET*
-### Ort: [Senners Alm](https://sporttreff-in.de), [Unterlettenweg 1, 85051 Ingolstadt](https://maps.app.goo.gl/2GvQSsEyJNsNzKc66)
-
-Gute Gespräche zu spannenden Themen in netter Gesellschaft.
-
----
-
 ## Mitgliederhauptversammlung
 
 ### Donnerstag, 12.03.2026 - 18:30 Uhr *CET*
@@ -38,8 +29,8 @@ Agenda:
 
 ## Termine 2026:
 
-* **Dienstag, 10. Februar 2026**
-* Donnerstag, 12. März 2026 - Mitgliederhauptversammlung
+* ~~Dienstag, 10. Februar 2026~~
+* **Donnerstag, 12. März 2026 - Mitgliederhauptversammlung**
 * Dienstag, 14. April 2026
 
 Ihr könnt auch unseren [Kalender](https://calendar.google.com/calendar/embed?src=jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com&ctz=Europe%2FBerlin) abonnieren, oder Euch auf die [Ankündigungs-Mailliste](https://groups.google.com/g/jug-ingolstadt) setzen, um stets informiert zu sein.

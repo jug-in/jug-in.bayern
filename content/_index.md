@@ -14,15 +14,6 @@ haben wir eine Google-Gruppe eingerichtet: [JUG Ingolstadt | Ankündigungen](htt
 
 ---
 
-## Nächster [Java-Treff]({{< ref "/page/java-treff.md" >}})
-
-### Dienstag, 10.02.2026 - 18:30 Uhr *CET*
-### Ort: [Senners Alm](https://sporttreff-in.de), [Unterlettenweg 1, 85051 Ingolstadt](https://maps.app.goo.gl/2GvQSsEyJNsNzKc66)
-
-Gute Gespräche zu spannenden Themen in netter Gesellschaft.
-
----
-
 ## [Mitgliederhauptversammlung]({{< ref "/page/java-treff.md" >}})
 
 ### Donnerstag, 12.03.2026 - 18:30 Uhr *CET*
