@@ -14,10 +14,10 @@ haben wir eine Google-Gruppe eingerichtet: [JUG Ingolstadt | Ankündigungen](htt
 
 ---
 
-## [Mitgliederhauptversammlung]({{< ref "/page/java-treff.md" >}})
+## [Gemütlicher Java-Treff]({{< ref "/page/java-treff.md" >}})
 
-### Donnerstag, 12.03.2026 - 18:30 Uhr *CET*
-### Ort: [Senners Alm](https://sporttreff-in.de), [Unterlettenweg 1, 85051 Ingolstadt](https://maps.app.goo.gl/2GvQSsEyJNsNzKc66)
+### Dienstag, 14.04.2026 - 18:30 Uhr *CET*
+### Ort: [Papa Joe's](https://papajoes-ingolstadt.de/), [Harderstraße 12, 85049 Ingolstadt](https://maps.app.goo.gl/R74Ut71PdXAta95P7)
 
 ---
 
