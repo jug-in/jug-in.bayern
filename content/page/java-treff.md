@@ -21,8 +21,9 @@ Gute Gespräche zu spannenden Themen in netter Gesellschaft.
 
 * ~~Dienstag, 10. Februar 2026~~
 * ~~Donnerstag, 12. März 2026 - Mitgliederhauptversammlung~~
-* **Dienstag, 14. April 2026**
-* Donnerstag, 14. Mai 2026
+* ~~Dienstag, 14. April 2026~~
+* **Dienstag, 09. Juni 2026**
+* Donnerstag, 09. Juli 2026
 
 Ihr könnt auch unseren [Kalender](https://calendar.google.com/calendar/embed?src=jug-in.bayern_7f1j2bk8rq8q0bttpfvvm9d2p8%40group.calendar.google.com&ctz=Europe%2FBerlin) abonnieren, oder Euch auf die [Ankündigungs-Mailliste](https://groups.google.com/g/jug-ingolstadt) setzen, um stets informiert zu sein.
 

@@ -16,8 +16,8 @@ haben wir eine Google-Gruppe eingerichtet: [JUG Ingolstadt | Ankündigungen](htt
 
 ## [Gemütlicher Java-Treff]({{< ref "/page/java-treff.md" >}})
 
-### Dienstag, 14.04.2026 - 18:30 Uhr *CET*
-### Ort: [Papa Joe's](https://papajoes-ingolstadt.de/), [Harderstraße 12, 85049 Ingolstadt](https://maps.app.goo.gl/R74Ut71PdXAta95P7)
+### Dienstag, 09.06.2026 - 18:30 Uhr *CET*
+### Ort: tbd
 
 ---
 
