@@ -16,8 +16,8 @@ haben wir eine Google-Gruppe eingerichtet: [JUG Ingolstadt | Ankündigungen](htt
 
 ## [Gemütlicher Java-Treff]({{< ref "/page/java-treff.md" >}})
 
-### Dienstag, 09.06.2026 - 18:30 Uhr *CET*
-### Ort: tbd
+### Dienstag, 09.06.2026 - 18:30 Uhr
+### Ort: [das "Mo" - Neue Galerie](https://dasmo.chayns.site/), [Bergbräustraße 7, 85049 Ingolstadt](https://maps.app.goo.gl/PqQzAd1Qz4WE598o6)
 
 ---
 
