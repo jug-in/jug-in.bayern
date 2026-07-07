@@ -16,8 +16,8 @@ haben wir eine Google-Gruppe eingerichtet: [JUG Ingolstadt | Ankündigungen](htt
 
 ## [Gemütlicher Java-Treff]({{< ref "/page/java-treff.md" >}})
 
-### Dienstag, 09.06.2026 - 18:30 Uhr
-### Ort: [das "Mo" - Neue Galerie](https://dasmo.chayns.site/), [Bergbräustraße 7, 85049 Ingolstadt](https://maps.app.goo.gl/PqQzAd1Qz4WE598o6)
+### Donnerstag, 09.07.2026 - 18:30 Uhr
+### Ort: [Hans im Glück](https://hansimglueck-burgergrill.de), [Ludwigstraße 10, 85049 Ingolstadt](https://maps.app.goo.gl/8wKgM13jqBRmD6xG8)
 
 ---
 
