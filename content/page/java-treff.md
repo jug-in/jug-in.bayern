@@ -10,8 +10,8 @@ Der Java-Treff ist unser monatlicher "Stammtisch" zu allen Themen und um Softwar
 
 ## Gemütlicher Java-Treff
 
-### Donnerstag, 09.07.2026 - 18:30 Uhr
-### Ort: [Hans im Glück](https://hansimglueck-burgergrill.de), [Ludwigstraße 10, 85049 Ingolstadt](https://maps.app.goo.gl/8wKgM13jqBRmD6xG8)
+### Dienstag, 11. August 2026 - 18:30 Uhr
+### Ort: [Grillen beim Segelheim MBB SG - Manching Sektion Segeln](https://maps.app.goo.gl/zFJ1944kx7y6QrBS6), [PH35+W2, 85290 Geisenfeld](https://maps.app.goo.gl/zFJ1944kx7y6QrBS6)
 
 Gute Gespräche zu spannenden Themen in netter Gesellschaft.
 
@@ -23,8 +23,8 @@ Gute Gespräche zu spannenden Themen in netter Gesellschaft.
 * ~~Donnerstag, 12. März 2026 - Mitgliederhauptversammlung~~
 * ~~Dienstag, 14. April 2026~~
 * ~~Dienstag, 09. Juni 2026~~
-* **Donnerstag, 09. Juli 2026**
-* Dienstag, 11. August 2026
+* ~~Donnerstag, 09. Juli 2026~~
+* **Dienstag, 11. August 2026**
 * Donnerstag, 10. September 2026
 * Dienstag, 13. Oktober 2026
 * Donnerstag, 12. November 2026
