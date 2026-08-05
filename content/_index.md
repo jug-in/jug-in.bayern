@@ -16,8 +16,13 @@ haben wir eine Google-Gruppe eingerichtet: [JUG Ingolstadt | Ankündigungen](htt
 
 ## [Gemütlicher Java-Treff]({{< ref "/page/java-treff.md" >}})
 
-### Donnerstag, 09.07.2026 - 18:30 Uhr
-### Ort: [Hans im Glück](https://hansimglueck-burgergrill.de), [Ludwigstraße 10, 85049 Ingolstadt](https://maps.app.goo.gl/8wKgM13jqBRmD6xG8)
+### Dienstag, 11. August 2026 - 18:30 Uhr
+### Ort: [Grillen beim Segelheim MBB SG - Manching Sektion Segeln](https://maps.app.goo.gl/zFJ1944kx7y6QrBS6), [PH35+W2, 85290 Geisenfeld](https://maps.app.goo.gl/zFJ1944kx7y6QrBS6)
+
+Bitte Grillgut und Geschirr selbst mitbringen.
+Brot, Beilagen und Getränke werden von uns gestellt. Bitte gebt uns daher kurz Bescheid (über WhatsApp, E-Mail, o.ä.), damit wir genügend Beilagen besorgen können.
+
+Denkt bitte auch an eine Decke zum Sitzen und Badesachen, falls ihr ins Wasser möchtet!
 
 ---
 
